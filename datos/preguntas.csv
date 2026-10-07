@@ -1,0 +1,34 @@
+codigo,dimension,texto,sentido
+lid_1,Liderazgo del jefe directo,Mi jefe directo me explica con claridad lo que espera de mí.,directo
+lid_2,Liderazgo del jefe directo,Mi jefe directo me trata con respeto.,directo
+lid_3,Liderazgo del jefe directo,Puedo plantearle un problema a mi jefe directo sin miedo a represalias.,directo
+lid_4,Liderazgo del jefe directo,Mi jefe directo me da retroalimentación útil sobre mi trabajo.,directo
+rec_1,Reconocimiento,"Cuando hago un buen trabajo, alguien me lo reconoce.",directo
+rec_2,Reconocimiento,En los últimos tres meses recibí un reconocimiento por mi trabajo.,directo
+rec_3,Reconocimiento,Siento que mi aporte se valora en esta empresa.,directo
+rec_4,Reconocimiento,En mi área los reconocimientos se dan de forma justa.,directo
+des_1,Desarrollo,En el último año aprendí cosas nuevas en mi trabajo.,directo
+des_2,Desarrollo,Recibo la capacitación que necesito para hacer bien mi trabajo.,directo
+des_3,Desarrollo,Veo posibilidades reales de crecer dentro de la empresa.,directo
+des_4,Desarrollo,Las promociones internas se deciden con criterios claros.,directo
+car_1,Carga de trabajo,La cantidad de trabajo que tengo es razonable.,directo
+car_2,Carga de trabajo,Puedo terminar mi trabajo dentro de mi horario normal.,directo
+car_3,Carga de trabajo,Mi trabajo me deja sin energía al final del día.,inverso
+car_4,Carga de trabajo,Tengo el tiempo necesario para hacer mi trabajo con calidad.,directo
+cyb_1,Compensación y beneficios,Mi sueldo es justo para el trabajo que hago.,directo
+cyb_2,Compensación y beneficios,Mi sueldo es competitivo frente a otras empresas de la zona.,directo
+cyb_3,Compensación y beneficios,Los beneficios de la empresa responden a mis necesidades.,directo
+cyb_4,Compensación y beneficios,"Entiendo cómo se calcula lo que gano (bonos, horas extra, antigüedad).",directo
+seg_1,Seguridad y condiciones,Cuento con el equipo de protección que necesito.,directo
+seg_2,Seguridad y condiciones,En mi área se cumplen las normas de seguridad.,directo
+seg_3,Seguridad y condiciones,"Mi lugar de trabajo tiene condiciones adecuadas (temperatura, ruido, limpieza).",directo
+seg_4,Seguridad y condiciones,"Si reporto una condición insegura, se corrige.",directo
+com_1,Comunicación,Me entero a tiempo de los cambios que afectan mi trabajo.,directo
+com_2,Comunicación,La gerencia explica con claridad hacia dónde va la empresa.,directo
+com_3,Comunicación,La información entre áreas fluye bien.,directo
+com_4,Comunicación,Leo el boletín interno de la empresa.,directo
+cpr_1,Compromiso,Siento orgullo de trabajar en esta empresa.,directo
+cpr_2,Compromiso,Recomendaría esta empresa como un buen lugar para trabajar.,directo
+cpr_3,Compromiso,Me veo trabajando aquí dentro de dos años.,directo
+cpr_4,Compromiso,Doy lo mejor de mí en mi trabajo todos los días.,directo
+enps,eNPS,"Del 0 al 10, ¿qué tan probable es que recomiende esta empresa como lugar de trabajo a un amigo o familiar?",escala 0 a 10

@@ -1,0 +1,427 @@
+equipo,area,nivel,antiguedad,turno,lid_1,lid_2,lid_3,lid_4,rec_1,rec_2,rec_3,rec_4,des_1,des_2,des_3,des_4,car_1,car_2,car_3,car_4,cyb_1,cyb_2,cyb_3,cyb_4,seg_1,seg_2,seg_3,seg_4,com_1,com_2,com_3,com_4,cpr_1,cpr_2,cpr_3,cpr_4,enps
+PRO-14,Producción,Operativo,Menos de 1 año,Rotativo,4,4,3,2,1,2,3,2,3,3,3,1,4,3,2,5,1,1,2,2,2,3,2,2,4,3,2,4,2,4,2,4,6
+PRO-09,Producción,Operativo,Menos de 1 año,Rotativo,4,5,5,4,3,3,2,2,3,2,2,3,4,4,2,3,1,1,2,2,4,4,4,4,2,3,4,4,3,4,4,3,6
+ADM-02,Administración y Finanzas,Profesional y jefatura,Menos de 1 año,Diurno,4,5,3,4,4,2,4,4,5,4,3,4,3,2,4,4,4,4,4,4,4,4,4,4,4,4,4,2,4,5,5,5,10
+VEN-03,Ventas,Operativo,1 a 3 años,Diurno,4,4,4,4,4,4,4,5,5,4,4,3,5,5,3,5,3,4,4,5,5,4,4,5,4,5,5,5,5,4,5,5,8
+CAL-01,Calidad,Técnico y supervisión,1 a 3 años,Rotativo,4,5,4,4,3,2,4,4,5,5,5,5,4,4,1,4,4,3,4,4,5,5,4,4,5,4,4,4,4,4,4,4,9
+ADM-03,Administración y Finanzas,Operativo,3 a 5 años,Diurno,5,5,5,5,3,4,5,3,5,4,4,3,3,5,3,3,3,2,4,2,4,4,3,4,4,5,4,4,4,5,4,4,10
+MAN-02,Mantenimiento,Técnico y supervisión,Menos de 1 año,Rotativo,5,5,5,5,4,4,4,4,5,5,5,5,2,1,5,1,2,2,3,5,5,3,4,4,5,5,4,5,5,5,5,5,8
+PRO-15,Producción,Técnico y supervisión,1 a 3 años,Rotativo,4,5,5,5,4,3,3,3,5,4,5,4,4,3,4,4,2,3,4,3,4,5,2,4,4,5,5,2,4,5,5,3,7
+VEN-05,Ventas,Operativo,Menos de 1 año,Diurno,4,4,4,2,3,2,2,3,5,5,5,4,4,4,3,4,4,3,4,2,3,3,4,3,5,2,3,3,3,3,5,5,8
+PRO-01,Producción,Técnico y supervisión,Más de 5 años,Diurno,4,5,5,4,4,2,3,3,5,4,4,3,3,5,4,4,3,2,1,3,4,5,5,5,3,4,3,2,4,4,3,4,8
+PRO-07,Producción,Operativo,Más de 5 años,Rotativo,4,4,4,5,4,5,5,2,3,4,1,2,4,4,2,3,4,4,5,4,4,4,2,4,4,4,3,4,4,4,4,5,10
+ADM-04,Administración y Finanzas,Profesional y jefatura,Menos de 1 año,Diurno,4,3,2,1,4,3,2,2,4,4,4,2,4,2,3,3,3,3,4,5,5,5,5,5,3,4,2,4,4,2,4,4,7
+MAN-01,Mantenimiento,Operativo,1 a 3 años,Diurno,4,5,5,5,4,4,5,5,4,5,4,4,5,5,1,5,4,4,4,4,4,5,5,5,5,4,4,4,5,5,5,5,10
+CAL-02,Calidad,Técnico y supervisión,Menos de 1 año,Diurno,4,4,2,5,3,3,4,4,4,3,3,2,5,4,3,4,4,3,4,4,4,4,5,2,3,3,1,4,5,5,4,5,8
+PRO-06,Producción,Técnico y supervisión,1 a 3 años,Diurno,5,5,4,5,4,3,5,2,4,4,4,4,4,4,4,4,5,5,5,5,5,5,5,5,4,4,4,3,5,5,2,4,10
+VEN-04,Ventas,Operativo,Menos de 1 año,Diurno,4,5,4,4,2,2,3,2,4,4,2,3,3,4,4,4,1,1,1,1,4,3,4,3,3,4,3,5,4,3,3,4,7
+LOG-04,Logística y Distribución,Operativo,1 a 3 años,Diurno,2,5,3,3,5,3,3,4,4,4,5,4,2,2,5,1,4,4,3,3,3,4,3,4,4,3,4,4,5,4,3,5,8
+LOG-09,Logística y Distribución,Operativo,1 a 3 años,Diurno,4,4,3,4,5,5,5,5,3,5,5,4,4,1,3,4,2,3,3,4,4,4,2,4,4,4,5,4,5,5,5,4,8
+PRO-14,Producción,Operativo,Más de 5 años,Rotativo,4,4,5,4,3,4,4,3,5,4,4,4,3,4,2,4,4,2,3,4,4,4,4,4,4,4,4,4,4,3,5,5,8
+LOG-07,Logística y Distribución,Operativo,3 a 5 años,Diurno,3,4,2,4,3,3,2,3,4,4,3,2,3,1,4,3,1,2,2,3,3,2,1,1,3,1,3,2,3,4,3,4,7
+ADM-04,Administración y Finanzas,Profesional y jefatura,Más de 5 años,Diurno,2,4,2,3,5,4,4,3,5,5,5,3,3,4,5,2,3,1,3,2,5,4,4,4,3,5,3,2,5,5,3,4,8
+CAL-02,Calidad,Operativo,Más de 5 años,Diurno,4,5,5,4,4,3,3,2,3,3,2,5,4,4,4,5,2,3,1,4,5,4,4,4,4,4,2,2,4,2,2,5,8
+PRO-13,Producción,Técnico y supervisión,Más de 5 años,Rotativo,3,5,4,4,2,2,1,1,3,2,2,2,1,3,5,1,3,2,3,4,5,5,3,4,3,4,4,3,4,4,4,3,3
+PRO-03,Producción,Operativo,Más de 5 años,Diurno,5,5,5,5,4,1,4,3,5,4,3,3,3,3,3,5,3,2,4,3,4,3,3,5,4,4,4,5,4,4,4,5,8
+VEN-02,Ventas,Operativo,3 a 5 años,Diurno,5,5,5,5,4,4,5,4,3,4,3,3,3,4,3,2,1,1,1,1,4,3,4,4,4,2,3,4,5,4,4,4,10
+MAN-02,Mantenimiento,Operativo,3 a 5 años,Rotativo,5,4,5,4,4,3,2,3,2,3,2,3,2,2,2,2,4,4,3,3,4,5,4,4,1,2,1,4,4,3,4,4,9
+LOG-01,Logística y Distribución,Operativo,Más de 5 años,Diurno,5,4,4,4,4,3,4,3,3,4,2,4,3,3,4,2,1,1,2,3,4,3,5,4,3,3,2,4,4,4,5,5,10
+PRO-13,Producción,Operativo,3 a 5 años,Rotativo,4,3,4,2,2,2,4,1,2,4,2,2,3,2,3,4,4,3,4,4,5,4,5,4,4,3,2,5,2,3,1,5,5
+PRO-05,Producción,Operativo,3 a 5 años,Diurno,5,5,4,4,4,4,4,1,5,4,4,3,4,4,2,5,3,2,2,3,5,4,5,5,2,4,3,4,4,4,2,4,9
+LOG-08,Logística y Distribución,Operativo,Menos de 1 año,Diurno,3,5,4,4,3,3,3,4,4,3,3,4,3,4,4,4,3,4,2,2,5,4,4,5,5,4,4,3,4,4,4,4,9
+MAN-02,Mantenimiento,Técnico y supervisión,1 a 3 años,Rotativo,3,5,4,3,4,5,4,4,4,5,4,4,4,5,3,5,2,2,4,3,2,3,2,3,4,5,4,3,4,3,5,4,8
+PRO-08,Producción,Operativo,1 a 3 años,Rotativo,1,4,4,4,4,4,3,3,4,4,5,4,4,3,3,4,1,1,2,1,5,4,4,5,4,4,4,4,4,3,5,4,9
+MAN-02,Mantenimiento,Técnico y supervisión,Más de 5 años,Rotativo,5,5,5,5,5,5,5,5,4,3,4,4,3,3,3,5,4,4,4,4,4,4,4,4,3,4,4,3,4,5,5,5,10
+PRO-01,Producción,Operativo,3 a 5 años,Diurno,5,5,5,4,3,3,3,2,4,3,3,2,4,4,5,3,3,4,3,3,4,4,4,4,3,4,4,5,5,4,4,5,10
+MAN-02,Mantenimiento,Operativo,1 a 3 años,Rotativo,5,5,4,5,5,4,5,5,4,5,5,5,5,5,2,5,5,4,5,4,5,3,5,5,5,4,4,4,5,5,5,5,10
+PRO-14,Producción,Operativo,Menos de 1 año,Rotativo,5,3,4,4,2,1,2,2,3,3,2,3,2,1,4,3,4,3,4,3,4,4,2,3,4,3,3,3,4,2,3,4,9
+LOG-10,Logística y Distribución,Operativo,3 a 5 años,Diurno,5,4,5,4,4,4,4,4,4,4,4,4,2,3,3,4,3,4,4,3,5,5,5,5,5,4,4,5,5,5,5,5,8
+PRO-11,Producción,Técnico y supervisión,Más de 5 años,Diurno,5,5,5,5,5,5,5,4,5,5,5,5,3,4,3,5,2,3,1,4,5,4,4,5,5,5,4,2,5,4,5,5,10
+MAN-01,Mantenimiento,Técnico y supervisión,Más de 5 años,Diurno,5,4,5,4,3,5,5,4,3,3,2,2,4,3,4,3,4,3,2,2,5,4,3,4,2,2,2,4,4,4,3,4,9
+LOG-08,Logística y Distribución,Operativo,1 a 3 años,Diurno,3,4,3,3,3,2,5,3,4,3,2,3,4,4,2,4,4,4,3,4,4,4,4,4,4,2,1,3,3,4,2,4,8
+PRO-14,Producción,Operativo,1 a 3 años,Rotativo,4,5,4,5,3,1,3,3,4,4,3,4,3,3,4,2,4,1,2,2,5,4,5,4,3,4,4,3,4,4,4,5,7
+ADM-04,Administración y Finanzas,Operativo,1 a 3 años,Diurno,5,5,5,4,3,1,2,3,4,4,3,5,3,2,4,3,4,4,4,5,5,5,5,5,3,4,3,4,4,4,4,5,9
+PRO-14,Producción,Profesional y jefatura,1 a 3 años,Diurno,5,5,4,4,2,4,3,4,5,4,2,3,4,4,4,4,4,3,4,4,4,4,4,4,4,4,4,5,4,4,3,5,9
+VEN-05,Ventas,Técnico y supervisión,Más de 5 años,Diurno,4,5,3,2,3,1,1,2,4,2,4,4,5,5,4,4,4,3,4,5,5,5,5,5,4,5,4,3,5,4,4,5,9
+LOG-06,Logística y Distribución,Operativo,1 a 3 años,Diurno,2,1,1,1,4,2,1,2,1,1,1,2,4,4,3,5,2,2,3,3,5,4,5,5,4,3,2,4,3,1,3,4,4
+MAN-01,Mantenimiento,Técnico y supervisión,Menos de 1 año,Diurno,5,5,4,4,2,3,5,5,5,4,5,5,5,5,2,4,2,2,2,4,5,5,5,5,4,2,4,2,5,5,4,5,10
+PRO-01,Producción,Operativo,Más de 5 años,Diurno,5,5,3,4,5,5,5,4,5,3,4,2,4,4,2,5,4,4,4,4,5,4,3,3,5,5,5,4,5,5,4,5,9
+PRO-08,Producción,Operativo,1 a 3 años,Rotativo,5,5,4,5,4,1,2,2,4,4,2,2,3,2,5,3,4,3,4,5,5,4,4,4,3,2,4,2,2,4,3,4,7
+PRO-05,Producción,Operativo,Más de 5 años,Diurno,4,5,3,4,3,4,4,2,4,4,3,5,5,5,3,5,5,5,4,5,5,5,4,5,4,5,4,4,5,5,5,5,9
+MAN-01,Mantenimiento,Operativo,1 a 3 años,Diurno,5,5,4,3,3,2,2,2,4,4,2,4,4,2,5,4,2,2,2,2,4,3,4,4,4,3,4,4,3,4,2,5,6
+CAL-01,Calidad,Operativo,Menos de 1 año,Rotativo,3,5,3,4,4,3,4,2,4,4,4,3,2,2,4,2,2,3,2,2,3,4,2,2,2,2,3,3,4,3,4,4,6
+CAL-02,Calidad,Técnico y supervisión,Menos de 1 año,Diurno,4,5,5,5,4,4,3,4,4,4,4,2,4,2,4,4,1,2,1,3,5,4,4,5,4,5,4,4,5,4,3,5,8
+ADM-02,Administración y Finanzas,Técnico y supervisión,1 a 3 años,Diurno,4,5,4,5,3,4,3,4,3,5,4,4,2,2,4,3,2,1,3,2,4,2,4,2,4,3,4,5,5,5,4,5,7
+VEN-03,Ventas,Operativo,3 a 5 años,Diurno,5,5,5,4,4,3,3,4,5,4,4,4,2,3,3,4,1,1,2,2,2,2,1,2,4,4,5,2,5,4,3,5,8
+PRO-10,Producción,Operativo,Menos de 1 año,Diurno,4,4,4,5,2,2,3,2,5,3,4,3,4,3,2,5,2,3,4,4,3,4,4,1,4,4,3,3,5,4,4,5,10
+MAN-02,Mantenimiento,Operativo,Más de 5 años,Rotativo,4,4,4,4,4,3,5,4,2,3,1,2,3,4,2,5,3,2,4,4,4,5,4,5,4,4,2,4,4,4,3,5,9
+PRO-02,Producción,Operativo,Menos de 1 año,Diurno,3,5,4,4,4,5,5,4,4,4,4,4,5,5,2,5,4,3,5,5,4,4,5,5,2,3,3,3,4,3,4,5,8
+PRO-07,Producción,Operativo,Más de 5 años,Rotativo,5,3,3,3,1,1,1,2,2,2,2,2,3,4,4,3,4,2,3,3,4,4,5,5,5,4,4,3,4,4,5,5,8
+VEN-03,Ventas,Operativo,3 a 5 años,Diurno,5,5,4,5,4,5,4,4,4,4,4,5,4,4,1,4,4,5,4,3,5,5,3,5,4,5,4,4,4,4,4,5,8
+PRO-13,Producción,Operativo,1 a 3 años,Rotativo,5,5,4,4,2,3,3,1,3,4,4,4,4,4,4,4,3,3,4,5,4,4,4,5,5,4,4,4,4,2,4,4,9
+LOG-08,Logística y Distribución,Operativo,Más de 5 años,Diurno,3,5,4,2,4,3,4,4,3,4,4,3,4,3,4,4,4,4,2,3,3,4,3,4,4,4,3,5,4,4,3,5,9
+PRO-14,Producción,Operativo,1 a 3 años,Rotativo,4,5,4,4,5,4,4,3,4,3,4,3,3,4,4,4,4,3,2,3,3,1,2,4,3,2,5,4,4,4,3,4,8
+VEN-03,Ventas,Técnico y supervisión,Más de 5 años,Diurno,5,5,5,4,2,3,3,4,4,4,5,3,4,5,2,3,2,1,4,2,5,4,3,5,3,3,2,4,4,5,5,5,10
+VEN-02,Ventas,Operativo,1 a 3 años,Diurno,5,5,5,5,4,4,4,4,4,3,2,2,5,5,2,5,2,3,2,4,4,4,5,4,5,5,5,4,4,4,4,5,9
+PRO-14,Producción,Operativo,1 a 3 años,Rotativo,4,4,5,5,2,4,4,4,5,5,5,5,4,4,4,3,4,4,4,3,4,4,4,3,4,2,2,2,5,5,4,5,10
+PRO-01,Producción,Operativo,3 a 5 años,Diurno,3,4,4,3,4,3,3,4,4,4,4,4,1,2,4,2,2,2,3,2,5,4,3,3,4,3,3,4,4,4,4,4,3
+PRO-04,Producción,Operativo,Más de 5 años,Diurno,4,4,4,3,1,1,1,3,2,1,3,1,3,3,3,4,3,1,2,4,4,4,3,4,4,4,3,4,3,3,3,2,7
+LOG-04,Logística y Distribución,Técnico y supervisión,1 a 3 años,Diurno,3,3,2,2,2,2,4,2,4,4,3,2,1,1,5,2,3,4,2,4,3,3,2,1,4,2,3,3,3,3,3,5,4
+PRO-05,Producción,Operativo,Más de 5 años,Diurno,2,2,2,2,2,2,2,3,4,3,2,2,4,4,4,4,4,4,4,4,5,4,4,4,2,4,3,2,2,3,2,3,8
+PRO-02,Producción,Operativo,Más de 5 años,Diurno,4,4,4,3,3,4,4,4,3,2,3,2,2,1,4,3,4,5,4,3,5,3,1,4,4,4,5,5,4,4,3,5,9
+PRO-10,Producción,Operativo,Más de 5 años,Diurno,3,4,3,4,2,3,3,3,4,2,3,3,1,2,4,4,4,4,4,5,2,3,2,3,2,4,3,4,3,2,4,4,6
+CAL-01,Calidad,Operativo,Menos de 1 año,Rotativo,3,4,4,4,4,2,4,4,3,3,3,2,4,4,4,4,4,1,2,3,4,4,2,4,4,3,3,4,4,2,2,4,8
+PRO-02,Producción,Operativo,Más de 5 años,Diurno,3,5,3,4,4,3,4,4,5,5,5,5,5,4,1,5,5,4,3,4,5,4,5,4,4,5,3,3,4,4,4,5,8
+PRO-07,Producción,Operativo,1 a 3 años,Rotativo,5,4,3,4,3,3,4,4,3,2,3,2,4,4,4,3,3,2,3,3,4,4,5,3,2,3,2,3,4,4,4,5,7
+VEN-05,Ventas,Operativo,1 a 3 años,Diurno,4,5,4,4,2,2,2,2,3,4,4,1,4,3,5,3,2,3,3,4,2,3,2,5,4,4,3,3,4,5,4,5,8
+ADM-04,Administración y Finanzas,Operativo,1 a 3 años,Diurno,4,3,4,4,4,4,3,3,2,3,2,2,2,2,4,3,2,1,3,2,5,4,3,1,4,3,2,2,3,3,4,4,6
+LOG-05,Logística y Distribución,Operativo,Más de 5 años,Diurno,4,3,5,1,4,3,3,5,4,2,4,4,2,3,5,2,4,4,3,4,4,4,4,5,1,2,2,2,5,3,3,5,6
+ADM-03,Administración y Finanzas,Operativo,1 a 3 años,Diurno,3,5,4,4,4,4,5,4,5,3,4,4,5,4,4,5,4,4,4,5,5,5,5,5,4,4,3,4,5,4,5,5,10
+PRO-07,Producción,Operativo,Más de 5 años,Rotativo,4,5,4,4,3,4,4,3,4,4,3,2,4,3,4,4,2,3,3,4,4,4,4,5,2,2,2,4,3,4,3,5,6
+PRO-14,Producción,Operativo,Menos de 1 año,Rotativo,4,5,4,5,4,3,4,5,4,3,5,4,4,2,4,4,4,5,4,5,5,4,4,5,5,4,5,4,4,5,5,5,10
+LOG-05,Logística y Distribución,Operativo,Menos de 1 año,Diurno,3,4,4,4,3,2,3,2,2,3,1,4,3,2,5,3,1,2,1,2,5,4,3,3,3,5,2,4,4,3,4,4,7
+PRO-08,Producción,Operativo,Menos de 1 año,Rotativo,4,4,4,5,3,4,3,4,3,4,4,4,2,3,4,4,2,2,2,4,4,4,4,4,5,4,3,4,4,5,4,5,8
+MAN-03,Mantenimiento,Operativo,Más de 5 años,Rotativo,2,2,2,2,1,1,1,1,4,2,2,4,2,2,5,3,2,2,4,3,4,3,4,3,3,1,2,2,2,3,3,3,2
+LOG-07,Logística y Distribución,Operativo,Menos de 1 año,Diurno,2,4,3,2,2,2,2,3,3,4,3,3,2,3,3,4,4,2,4,4,4,4,4,4,4,4,4,4,4,4,3,4,6
+PRO-14,Producción,Operativo,Más de 5 años,Rotativo,5,4,5,4,3,3,4,3,3,2,3,3,1,3,4,2,3,3,5,3,4,4,4,3,4,4,4,2,4,4,4,5,8
+PRO-13,Producción,Técnico y supervisión,1 a 3 años,Rotativo,3,4,3,3,3,3,3,4,4,3,4,4,4,3,4,3,2,2,2,4,5,4,3,4,4,3,3,5,2,3,4,4,9
+ADM-04,Administración y Finanzas,Técnico y supervisión,Más de 5 años,Diurno,4,4,3,2,4,3,5,4,4,3,4,4,3,3,4,4,3,4,4,4,4,5,4,5,3,5,4,3,4,4,5,5,8
+CAL-01,Calidad,Técnico y supervisión,Más de 5 años,Rotativo,4,5,4,4,3,2,3,3,5,3,5,4,4,2,1,5,4,2,5,4,4,5,3,5,4,5,4,3,4,4,4,5,10
+ADM-01,Administración y Finanzas,Operativo,Menos de 1 año,Diurno,4,4,4,3,4,2,4,4,4,5,4,3,3,4,1,4,2,4,4,3,5,4,4,4,1,2,1,3,4,4,3,3,8
+VEN-02,Ventas,Técnico y supervisión,Más de 5 años,Diurno,5,5,5,5,4,4,4,4,3,4,4,2,4,4,3,5,2,4,4,2,5,4,3,3,4,2,4,4,5,4,5,5,9
+MAN-03,Mantenimiento,Técnico y supervisión,Más de 5 años,Rotativo,4,3,3,3,4,3,4,4,5,4,5,4,4,4,4,4,3,3,4,4,5,5,5,5,4,4,3,3,4,4,4,5,10
+ADM-02,Administración y Finanzas,Técnico y supervisión,3 a 5 años,Diurno,5,5,5,5,5,4,5,5,3,5,4,3,2,4,2,4,4,4,2,4,5,5,5,5,5,3,4,1,5,5,4,5,10
+LOG-08,Logística y Distribución,Operativo,1 a 3 años,Diurno,3,3,2,4,2,2,2,1,1,2,3,3,4,4,3,4,3,4,1,2,4,3,4,3,4,4,2,4,2,3,4,4,6
+PRO-04,Producción,Técnico y supervisión,1 a 3 años,Diurno,5,5,5,5,5,4,4,4,4,5,4,3,4,4,2,4,2,4,4,2,3,4,4,3,4,3,5,4,5,5,4,5,10
+PRO-08,Producción,Operativo,Menos de 1 año,Rotativo,5,4,5,5,4,3,4,2,4,4,2,3,5,4,3,4,1,1,2,2,3,3,4,4,4,3,2,3,4,4,4,4,8
+PRO-14,Producción,Operativo,Más de 5 años,Rotativo,5,5,5,5,5,4,5,5,4,4,4,3,3,5,4,3,3,3,4,4,3,3,3,2,4,4,3,5,4,5,4,4,9
+MAN-02,Mantenimiento,Técnico y supervisión,Más de 5 años,Rotativo,4,5,4,4,3,3,4,1,3,4,3,4,4,5,3,3,4,3,5,5,1,2,2,2,4,4,3,4,5,4,4,3,10
+PRO-15,Producción,Técnico y supervisión,3 a 5 años,Rotativo,4,3,4,4,4,2,4,4,2,4,3,3,4,3,3,3,4,4,3,2,5,5,5,5,5,5,4,4,5,5,4,5,10
+LOG-06,Logística y Distribución,Operativo,1 a 3 años,Diurno,2,4,4,3,2,2,2,1,4,3,4,4,1,1,4,2,4,2,2,4,5,3,4,4,5,3,5,5,4,3,4,4,3
+PRO-14,Producción,Técnico y supervisión,3 a 5 años,Rotativo,4,4,3,3,3,4,3,4,2,2,1,2,5,4,4,4,4,4,3,4,3,4,5,2,2,3,4,3,4,3,4,4,8
+ADM-01,Administración y Finanzas,Operativo,1 a 3 años,Diurno,1,2,2,1,2,1,2,2,2,1,1,2,3,2,4,4,3,1,3,2,4,4,2,4,4,4,2,5,1,1,2,2,0
+ADM-02,Administración y Finanzas,Técnico y supervisión,3 a 5 años,Diurno,5,5,5,5,3,2,4,4,4,4,2,4,3,4,4,5,4,4,3,4,5,4,5,4,5,4,3,4,4,4,3,5,10
+VEN-05,Ventas,Técnico y supervisión,Más de 5 años,Diurno,4,4,4,3,4,2,4,5,3,4,4,4,4,2,5,4,4,4,4,4,4,4,3,5,4,4,4,4,5,4,4,4,7
+CAL-01,Calidad,Operativo,1 a 3 años,Rotativo,4,5,5,5,4,3,3,4,2,1,1,3,3,4,4,4,4,4,4,4,3,3,3,2,3,2,2,5,5,5,3,5,10
+ADM-02,Administración y Finanzas,Profesional y jefatura,1 a 3 años,Diurno,4,5,4,4,2,3,4,4,3,3,2,2,4,3,4,5,1,1,2,1,4,4,3,3,3,4,4,2,2,3,4,4,8
+PRO-06,Producción,Operativo,Más de 5 años,Diurno,4,5,5,5,4,4,5,4,3,3,3,4,5,3,3,5,4,4,4,5,3,4,4,3,3,4,4,4,5,4,5,5,9
+ADM-03,Administración y Finanzas,Profesional y jefatura,Más de 5 años,Diurno,3,4,4,4,4,4,5,3,4,4,3,3,5,5,2,5,4,3,2,3,4,5,4,5,4,4,3,2,4,4,3,4,7
+LOG-06,Logística y Distribución,Operativo,1 a 3 años,Diurno,3,4,3,3,2,2,3,1,3,2,4,4,4,4,4,4,1,2,2,4,3,3,2,4,4,4,4,5,4,4,5,4,10
+PRO-11,Producción,Operativo,1 a 3 años,Diurno,3,3,3,2,4,4,4,4,4,4,4,3,5,4,2,5,3,2,4,4,4,5,4,4,2,3,3,3,5,5,3,4,8
+PRO-02,Producción,Operativo,Menos de 1 año,Diurno,5,5,4,5,5,5,5,5,5,3,4,5,3,4,3,1,3,3,3,3,3,4,4,4,4,3,3,5,5,4,4,5,10
+MAN-01,Mantenimiento,Técnico y supervisión,Más de 5 años,Diurno,2,4,2,4,2,1,4,1,3,3,4,3,5,4,4,3,4,4,4,5,3,2,3,2,2,2,2,4,4,3,4,4,7
+PRO-09,Producción,Operativo,1 a 3 años,Rotativo,5,5,5,5,5,5,4,4,3,5,2,4,4,5,3,2,4,4,5,4,2,4,4,4,4,5,5,5,5,5,5,5,10
+MAN-01,Mantenimiento,Profesional y jefatura,3 a 5 años,Diurno,2,5,4,4,1,2,2,4,4,4,5,4,4,2,4,1,2,3,3,4,3,4,4,3,4,3,4,4,3,5,4,5,8
+CAL-02,Calidad,Técnico y supervisión,Más de 5 años,Diurno,5,5,5,5,4,1,5,2,5,2,3,3,5,3,2,5,2,2,2,4,4,4,4,5,4,4,4,3,4,4,4,5,9
+CAL-01,Calidad,Técnico y supervisión,Más de 5 años,Rotativo,4,4,4,3,2,2,1,1,2,2,1,2,4,4,4,3,3,4,1,4,4,3,3,3,3,2,3,4,4,4,1,3,0
+CAL-02,Calidad,Técnico y supervisión,Más de 5 años,Diurno,4,4,3,4,2,1,2,2,4,4,4,3,3,4,3,3,3,2,1,2,3,3,3,3,3,4,2,2,4,2,3,4,7
+PRO-01,Producción,Operativo,Menos de 1 año,Diurno,4,4,4,3,3,4,4,4,5,5,5,5,2,2,4,4,3,2,4,4,2,3,2,4,3,4,3,2,4,5,5,4,8
+CAL-02,Calidad,Técnico y supervisión,Más de 5 años,Diurno,5,5,5,5,5,5,3,4,5,5,5,4,4,4,4,4,4,4,4,4,4,4,4,4,3,4,4,3,4,4,5,5,8
+VEN-01,Ventas,Operativo,1 a 3 años,Diurno,3,5,4,2,2,2,2,4,4,2,2,3,5,5,2,3,2,3,4,5,4,5,4,5,2,3,1,2,3,4,4,3,8
+LOG-01,Logística y Distribución,Operativo,Menos de 1 año,Diurno,2,2,3,1,3,3,3,3,3,4,1,4,5,4,3,4,3,3,3,4,2,3,4,4,1,1,1,2,5,4,3,4,6
+VEN-01,Ventas,Operativo,3 a 5 años,Diurno,4,5,4,3,3,3,3,2,5,5,4,4,4,4,4,3,2,3,2,2,5,5,4,5,5,5,5,4,3,5,4,4,10
+LOG-05,Logística y Distribución,Operativo,Más de 5 años,Diurno,2,3,2,1,1,2,2,3,4,2,2,3,5,4,2,5,3,1,2,2,4,2,2,4,3,1,2,2,2,1,1,4,5
+LOG-02,Logística y Distribución,Operativo,1 a 3 años,Diurno,4,5,3,3,2,2,2,1,5,3,2,3,1,2,5,3,1,2,2,4,3,3,2,3,4,3,5,3,1,3,4,4,7
+PRO-13,Producción,Operativo,Más de 5 años,Rotativo,3,4,2,2,1,3,3,3,4,3,1,2,3,4,4,4,4,4,4,5,4,4,4,5,2,2,1,1,2,2,4,5,4
+LOG-10,Logística y Distribución,Operativo,3 a 5 años,Diurno,5,5,4,4,5,3,4,5,3,3,2,2,4,5,1,4,5,3,4,4,5,4,2,2,5,4,3,2,4,4,3,4,10
+LOG-04,Logística y Distribución,Profesional y jefatura,3 a 5 años,Diurno,2,4,4,3,3,1,3,2,5,5,3,3,4,4,4,3,3,3,1,4,5,4,4,4,4,4,4,5,4,5,4,2,8
+CAL-02,Calidad,Técnico y supervisión,1 a 3 años,Diurno,5,5,5,5,3,4,4,4,4,3,2,3,3,2,4,2,1,4,3,4,5,4,4,5,4,4,3,3,5,4,3,4,10
+CAL-01,Calidad,Operativo,Menos de 1 año,Rotativo,3,4,4,2,4,5,4,5,4,4,4,3,4,4,2,2,5,5,4,4,4,4,4,3,4,4,4,4,5,5,5,5,10
+PRO-15,Producción,Profesional y jefatura,1 a 3 años,Diurno,4,5,2,5,5,5,5,4,4,5,4,4,3,4,3,5,2,4,3,2,4,5,3,4,3,4,3,3,3,4,4,5,8
+LOG-09,Logística y Distribución,Operativo,Menos de 1 año,Diurno,5,5,5,5,4,4,4,4,5,5,5,4,4,4,1,5,4,3,3,4,5,5,4,5,4,3,4,3,5,5,4,5,9
+LOG-02,Logística y Distribución,Operativo,Menos de 1 año,Diurno,4,4,4,5,1,4,1,2,3,4,3,3,5,3,4,4,3,2,3,4,5,4,5,4,4,5,4,5,5,3,5,4,6
+CAL-02,Calidad,Operativo,3 a 5 años,Diurno,4,5,4,2,2,1,2,1,3,4,2,3,3,2,4,3,1,1,3,4,5,4,4,3,4,3,2,5,3,1,2,2,6
+LOG-05,Logística y Distribución,Operativo,3 a 5 años,Diurno,3,3,4,2,2,2,1,3,4,1,2,4,4,2,4,4,1,1,3,3,2,1,1,1,3,5,4,3,3,3,2,4,3
+VEN-05,Ventas,Operativo,Menos de 1 año,Diurno,4,3,3,2,3,3,3,4,4,4,2,4,2,3,4,2,1,2,3,4,2,4,2,3,3,4,4,3,2,2,2,4,6
+PRO-03,Producción,Operativo,1 a 3 años,Diurno,2,4,1,2,1,2,2,2,1,1,1,2,1,1,5,1,1,1,1,2,4,3,1,3,1,3,2,2,1,1,2,3,2
+CAL-02,Calidad,Operativo,3 a 5 años,Diurno,5,5,5,5,5,4,5,4,5,5,4,5,5,4,4,5,4,2,4,3,4,5,2,4,5,4,5,5,4,5,4,5,10
+PRO-11,Producción,Operativo,1 a 3 años,Diurno,4,4,4,4,2,2,3,2,3,3,3,3,3,1,5,3,3,4,2,3,4,4,4,4,4,4,2,4,3,2,2,3,6
+PRO-09,Producción,Operativo,Menos de 1 año,Rotativo,5,5,5,5,5,4,5,4,5,4,5,5,4,5,4,4,4,3,1,5,5,5,5,5,5,5,5,5,4,4,5,5,10
+MAN-01,Mantenimiento,Técnico y supervisión,Más de 5 años,Diurno,1,1,1,1,1,2,1,3,4,1,2,1,4,5,2,5,2,2,4,3,4,4,4,3,1,2,1,1,4,1,2,4,0
+LOG-06,Logística y Distribución,Operativo,Más de 5 años,Diurno,2,4,4,3,3,4,4,2,2,5,3,1,3,2,5,3,2,3,5,4,4,4,4,5,3,4,2,5,4,3,5,5,9
+PRO-05,Producción,Operativo,Más de 5 años,Diurno,3,4,4,4,2,2,2,2,5,5,2,4,4,4,4,5,3,1,3,1,5,5,4,4,2,3,4,2,4,3,4,4,3
+VEN-01,Ventas,Operativo,Menos de 1 año,Diurno,4,4,4,4,4,4,5,4,5,5,4,4,4,4,3,5,3,3,3,4,5,5,4,5,4,4,4,2,5,4,5,3,10
+ADM-02,Administración y Finanzas,Operativo,1 a 3 años,Diurno,4,4,4,4,2,3,4,2,4,3,4,3,5,4,3,4,2,1,2,2,3,3,3,3,1,1,1,4,4,4,3,5,3
+PRO-08,Producción,Técnico y supervisión,Más de 5 años,Rotativo,3,5,4,4,3,3,3,2,2,4,2,4,3,3,4,4,1,2,1,4,4,4,3,4,4,3,3,3,3,3,2,3,6
+LOG-01,Logística y Distribución,Operativo,3 a 5 años,Diurno,2,3,4,2,1,1,2,1,4,4,2,3,2,2,4,1,2,1,4,3,2,4,3,4,2,4,2,4,2,1,3,5,0
+VEN-02,Ventas,Operativo,Más de 5 años,Diurno,5,5,5,5,3,4,4,4,5,4,3,5,4,5,3,4,2,2,2,2,3,4,4,4,5,4,4,3,5,5,4,5,8
+PRO-07,Producción,Operativo,1 a 3 años,Rotativo,3,3,4,5,4,4,4,4,5,4,3,2,4,4,3,5,4,3,4,4,4,4,4,4,3,2,3,2,4,4,4,5,10
+PRO-11,Producción,Operativo,Menos de 1 año,Diurno,3,5,4,4,4,1,3,3,5,3,4,2,4,4,4,5,2,4,4,5,3,4,3,4,5,4,4,4,5,4,4,5,9
+PRO-03,Producción,Operativo,Más de 5 años,Diurno,3,4,3,3,2,2,2,2,5,4,3,3,2,4,5,4,3,3,4,4,4,5,3,4,4,4,4,5,3,4,3,5,7
+PRO-07,Producción,Operativo,Más de 5 años,Rotativo,4,4,4,3,4,5,2,2,3,4,3,3,5,5,2,4,1,3,2,3,5,5,4,4,4,5,5,4,3,3,4,4,8
+MAN-01,Mantenimiento,Profesional y jefatura,1 a 3 años,Diurno,4,4,4,4,2,4,4,2,4,4,3,4,5,4,4,3,4,4,4,1,4,4,5,5,4,5,4,2,4,4,3,5,8
+ADM-02,Administración y Finanzas,Profesional y jefatura,1 a 3 años,Diurno,5,5,5,5,3,2,2,2,2,5,3,5,4,3,2,4,3,2,4,2,5,5,5,5,3,3,4,4,5,4,4,4,9
+MAN-02,Mantenimiento,Operativo,Menos de 1 año,Rotativo,5,4,4,4,4,3,4,4,5,4,2,3,2,3,4,2,3,4,3,3,4,4,4,5,3,2,3,4,4,3,2,5,9
+VEN-05,Ventas,Operativo,1 a 3 años,Diurno,4,2,4,3,3,4,2,3,4,2,3,2,2,2,5,1,1,1,2,1,4,3,3,3,4,4,4,3,3,3,2,4,4
+PRO-07,Producción,Operativo,1 a 3 años,Rotativo,3,3,1,2,2,1,3,3,3,4,5,3,2,2,4,3,4,4,4,4,5,4,3,4,4,3,2,3,3,3,4,5,7
+PRO-06,Producción,Operativo,1 a 3 años,Diurno,3,3,4,4,2,2,3,2,4,4,2,2,2,1,4,2,4,3,3,2,4,4,3,3,4,4,5,3,4,3,3,2,6
+ADM-04,Administración y Finanzas,Operativo,1 a 3 años,Diurno,1,2,1,1,4,4,3,3,5,3,2,2,4,5,1,4,4,3,3,5,4,3,4,4,4,4,3,2,1,2,2,5,0
+PRO-13,Producción,Operativo,1 a 3 años,Rotativo,3,2,4,2,3,3,4,2,3,4,2,4,4,5,2,4,4,3,3,2,3,4,2,4,4,1,4,4,3,4,2,4,6
+LOG-03,Logística y Distribución,Operativo,Más de 5 años,Diurno,4,4,3,3,4,3,3,2,4,3,4,4,5,5,4,5,5,5,5,4,4,4,5,5,2,3,2,4,3,4,4,4,7
+PRO-14,Producción,Técnico y supervisión,3 a 5 años,Rotativo,5,4,5,4,3,2,4,3,3,3,3,4,5,2,1,3,3,4,4,4,3,4,5,5,5,5,5,4,5,4,4,5,8
+VEN-01,Ventas,Operativo,Menos de 1 año,Diurno,4,5,5,5,2,2,2,2,5,5,5,4,3,4,2,5,4,4,3,4,5,3,4,5,5,4,4,3,4,5,5,5,10
+LOG-05,Logística y Distribución,Operativo,1 a 3 años,Diurno,3,4,5,4,2,1,2,2,4,4,5,4,2,3,5,1,2,3,3,4,4,2,2,3,4,5,2,3,5,4,3,4,7
+LOG-09,Logística y Distribución,Operativo,1 a 3 años,Diurno,4,3,3,4,5,4,5,4,5,4,4,4,5,4,4,4,4,4,4,5,4,4,4,3,5,4,4,5,4,4,5,5,10
+LOG-03,Logística y Distribución,Operativo,Más de 5 años,Diurno,3,4,4,3,4,3,5,4,4,3,4,2,1,2,4,2,2,2,4,3,2,3,1,3,2,3,2,4,5,5,4,4,7
+VEN-03,Ventas,Operativo,Menos de 1 año,Diurno,4,5,3,3,2,2,3,2,5,3,4,4,5,4,2,4,2,2,2,3,4,5,4,5,5,4,4,4,4,3,4,4,10
+VEN-05,Ventas,Operativo,Menos de 1 año,Diurno,4,4,5,4,4,4,3,4,5,5,5,4,4,5,4,3,4,4,5,5,4,5,4,5,4,3,3,2,5,4,4,5,9
+MAN-01,Mantenimiento,Técnico y supervisión,3 a 5 años,Diurno,4,5,4,3,5,5,5,5,4,4,4,3,5,5,3,5,4,4,4,4,5,5,5,5,4,4,2,3,5,4,5,5,8
+LOG-04,Logística y Distribución,Operativo,Menos de 1 año,Diurno,3,1,2,3,1,1,3,2,5,4,4,4,2,3,4,3,2,3,3,4,5,4,1,4,2,2,2,2,2,2,2,4,7
+PRO-14,Producción,Operativo,Menos de 1 año,Rotativo,4,4,4,4,5,5,3,4,4,3,2,5,3,2,4,4,1,2,1,4,5,5,4,4,5,4,2,4,4,4,4,4,8
+PRO-09,Producción,Operativo,Más de 5 años,Rotativo,5,5,4,4,5,3,4,4,3,3,3,3,5,5,3,5,4,3,3,2,5,5,4,5,4,3,4,4,4,4,3,5,10
+LOG-08,Logística y Distribución,Operativo,Más de 5 años,Diurno,4,4,5,3,1,3,3,4,5,4,5,5,3,3,4,2,1,2,4,4,4,3,3,3,3,5,4,4,2,4,4,3,6
+CAL-02,Calidad,Operativo,Menos de 1 año,Diurno,5,4,4,4,3,3,2,3,2,1,2,3,2,4,4,4,1,1,1,3,4,3,3,5,4,4,4,5,2,3,2,4,7
+VEN-03,Ventas,Operativo,Menos de 1 año,Diurno,1,3,3,2,2,2,1,2,2,2,3,1,3,4,4,2,1,1,2,1,4,4,2,3,4,3,2,4,1,1,2,2,0
+PRO-07,Producción,Técnico y supervisión,3 a 5 años,Rotativo,3,3,4,3,1,2,3,1,2,4,2,2,2,2,5,2,2,1,3,3,3,3,4,4,4,3,2,2,4,1,1,3,0
+MAN-02,Mantenimiento,Operativo,1 a 3 años,Rotativo,5,5,5,5,4,3,4,3,5,5,5,4,5,5,4,5,4,3,2,4,5,4,5,4,5,5,5,4,5,5,4,5,10
+PRO-12,Producción,Operativo,3 a 5 años,Rotativo,4,4,5,4,3,2,3,4,3,4,3,4,5,5,2,5,3,3,3,1,4,3,3,3,5,4,5,5,4,4,3,4,7
+VEN-04,Ventas,Técnico y supervisión,Más de 5 años,Diurno,4,5,3,4,5,4,5,4,5,4,5,4,5,4,4,5,3,4,4,4,4,2,2,3,4,4,5,2,5,4,5,5,8
+ADM-01,Administración y Finanzas,Técnico y supervisión,3 a 5 años,Diurno,4,4,4,3,4,3,2,3,3,2,2,4,4,5,5,4,4,2,4,5,4,5,3,4,2,4,4,2,4,4,4,5,10
+MAN-02,Mantenimiento,Operativo,Más de 5 años,Rotativo,4,4,4,4,4,2,4,4,4,4,4,2,1,2,4,2,4,2,4,3,4,4,4,2,3,4,3,2,4,4,3,4,8
+MAN-01,Mantenimiento,Técnico y supervisión,Más de 5 años,Diurno,1,4,2,3,1,1,2,2,4,4,4,3,3,4,5,5,4,3,1,4,4,2,2,2,3,5,3,1,1,3,2,5,5
+PRO-06,Producción,Operativo,3 a 5 años,Diurno,4,4,4,3,3,4,4,5,4,4,4,4,5,5,2,4,3,3,2,4,5,5,4,2,5,4,3,5,5,4,2,5,9
+PRO-09,Producción,Operativo,1 a 3 años,Rotativo,5,5,5,5,4,5,4,5,4,4,4,4,5,4,1,5,3,3,3,2,5,5,5,5,4,3,3,2,5,5,5,5,9
+PRO-13,Producción,Operativo,Más de 5 años,Rotativo,4,3,2,1,1,2,2,1,4,3,2,3,5,5,2,5,3,2,2,5,4,5,2,2,1,1,2,5,2,2,2,5,7
+VEN-04,Ventas,Operativo,Menos de 1 año,Diurno,4,4,5,4,4,4,4,3,5,4,4,5,3,2,3,2,3,3,3,4,4,4,2,4,3,2,4,4,5,5,4,4,10
+MAN-03,Mantenimiento,Técnico y supervisión,3 a 5 años,Rotativo,4,4,3,3,1,1,1,1,5,4,4,4,1,1,5,1,2,3,4,3,4,4,4,4,2,3,1,4,3,4,4,5,9
+PRO-14,Producción,Operativo,1 a 3 años,Rotativo,3,5,3,4,3,3,4,4,4,2,4,4,4,3,3,3,3,2,3,2,5,4,4,5,4,3,3,4,5,5,4,4,10
+VEN-04,Ventas,Operativo,Menos de 1 año,Diurno,4,4,4,4,1,2,3,3,2,3,2,3,3,4,3,4,2,3,2,1,4,3,2,3,3,2,2,2,4,5,4,5,8
+PRO-06,Producción,Operativo,3 a 5 años,Diurno,3,3,3,4,4,1,1,1,2,1,2,2,1,2,5,3,1,1,2,4,4,3,2,5,3,2,4,3,2,2,2,4,6
+PRO-12,Producción,Técnico y supervisión,1 a 3 años,Rotativo,5,5,5,5,4,4,5,3,4,4,3,4,4,5,3,3,3,1,3,4,3,4,4,2,4,4,4,4,4,5,5,5,8
+PRO-14,Producción,Operativo,1 a 3 años,Rotativo,4,4,4,2,3,4,2,4,4,2,3,3,4,4,3,3,2,2,2,3,2,2,1,4,4,4,3,2,4,3,4,3,7
+PRO-14,Producción,Operativo,Más de 5 años,Rotativo,5,5,5,4,3,2,4,4,5,5,4,4,3,4,2,4,2,2,2,4,5,5,5,5,4,5,4,3,4,5,4,5,10
+LOG-09,Logística y Distribución,Operativo,1 a 3 años,Diurno,4,2,3,4,3,3,3,2,4,4,3,4,1,1,4,2,2,3,1,4,4,4,4,4,3,1,3,4,4,2,2,5,5
+LOG-02,Logística y Distribución,Operativo,Más de 5 años,Diurno,4,4,5,4,4,2,3,3,5,4,5,5,4,4,3,4,2,2,3,3,3,4,4,3,4,2,3,5,4,4,4,4,9
+PRO-01,Producción,Operativo,3 a 5 años,Diurno,4,5,5,5,3,2,4,3,4,4,4,4,3,2,4,2,1,1,4,2,4,4,4,4,4,4,3,2,5,4,4,5,10
+CAL-01,Calidad,Operativo,3 a 5 años,Rotativo,3,4,4,5,4,3,4,4,5,5,5,4,3,4,3,4,3,2,4,4,5,5,4,5,5,5,3,4,5,5,5,5,10
+PRO-07,Producción,Operativo,Menos de 1 año,Rotativo,4,4,4,4,1,1,2,1,5,4,4,4,4,5,4,4,4,2,4,3,4,4,4,4,4,5,4,3,3,5,4,4,7
+PRO-06,Producción,Técnico y supervisión,Más de 5 años,Diurno,5,5,5,5,4,4,4,4,3,3,3,4,4,4,3,4,4,3,5,5,5,3,4,4,4,5,3,4,5,5,5,5,10
+VEN-03,Ventas,Operativo,Menos de 1 año,Diurno,5,5,4,4,4,4,3,2,5,5,4,4,2,2,4,3,2,4,1,3,4,5,5,4,4,2,4,4,5,4,5,4,10
+PRO-15,Producción,Operativo,Menos de 1 año,Rotativo,5,5,5,4,5,5,4,5,4,5,5,5,2,3,5,2,4,2,5,4,4,4,4,3,5,4,4,3,5,5,5,5,10
+ADM-04,Administración y Finanzas,Técnico y supervisión,3 a 5 años,Diurno,2,2,1,2,3,1,2,2,4,2,2,1,3,2,5,2,3,4,3,4,4,4,4,4,2,2,1,3,3,2,2,4,2
+PRO-09,Producción,Operativo,Más de 5 años,Rotativo,4,3,3,3,4,2,4,4,3,4,4,4,4,4,2,5,4,4,3,3,5,5,2,5,5,4,4,4,5,4,4,2,6
+ADM-03,Administración y Finanzas,Profesional y jefatura,Más de 5 años,Diurno,5,4,5,5,5,5,5,5,5,5,5,4,4,3,3,4,5,4,5,5,5,5,3,4,5,5,5,3,5,5,5,4,10
+VEN-03,Ventas,Operativo,Más de 5 años,Diurno,5,5,5,5,3,1,2,1,4,4,2,2,3,4,4,5,2,3,2,3,5,5,5,5,2,2,5,4,4,4,5,4,8
+MAN-01,Mantenimiento,Operativo,3 a 5 años,Diurno,5,5,5,4,3,3,4,4,2,4,4,4,5,5,3,4,4,4,4,5,3,3,4,4,4,3,4,2,5,4,5,5,10
+PRO-12,Producción,Operativo,Menos de 1 año,Rotativo,3,3,5,4,3,3,3,2,3,3,1,3,4,4,3,4,3,2,2,2,4,5,5,4,4,3,4,4,4,4,3,4,7
+LOG-09,Logística y Distribución,Operativo,Más de 5 años,Diurno,2,3,4,2,2,2,3,2,4,4,3,2,5,4,2,5,1,1,1,2,5,5,5,2,3,3,4,3,3,3,2,5,1
+VEN-01,Ventas,Operativo,Menos de 1 año,Diurno,4,5,4,4,2,3,5,3,4,5,4,3,4,3,2,4,2,2,2,2,3,4,2,2,5,4,5,4,4,3,5,5,10
+PRO-04,Producción,Operativo,3 a 5 años,Diurno,5,5,5,5,5,4,5,5,4,5,4,5,4,4,3,4,4,3,3,5,3,3,2,4,4,5,3,1,5,4,5,5,10
+LOG-01,Logística y Distribución,Técnico y supervisión,Más de 5 años,Diurno,3,2,2,1,2,2,2,2,5,4,4,2,1,1,5,1,3,3,3,1,3,2,3,3,4,3,2,3,1,2,3,5,8
+PRO-08,Producción,Operativo,Más de 5 años,Rotativo,3,4,4,3,4,4,4,4,4,3,3,3,4,3,3,5,2,2,4,4,4,5,2,2,4,4,3,4,4,4,4,4,8
+PRO-12,Producción,Operativo,3 a 5 años,Rotativo,5,5,4,4,3,2,4,4,5,4,4,4,5,5,4,5,4,2,3,2,5,5,5,5,4,5,4,3,4,5,4,5,10
+VEN-04,Ventas,Técnico y supervisión,1 a 3 años,Diurno,3,3,2,2,2,4,3,3,4,4,3,2,4,4,2,2,4,3,5,5,4,2,3,2,3,2,3,4,3,4,4,4,8
+PRO-14,Producción,Operativo,Menos de 1 año,Rotativo,5,5,5,5,5,3,4,5,5,5,5,4,4,4,4,4,5,4,4,4,5,5,5,5,5,5,5,3,5,5,5,5,10
+ADM-04,Administración y Finanzas,Profesional y jefatura,1 a 3 años,Diurno,3,3,2,2,2,2,4,2,4,4,2,3,4,5,2,4,2,4,2,2,4,4,5,5,3,4,2,4,4,3,4,5,7
+CAL-02,Calidad,Técnico y supervisión,Más de 5 años,Diurno,5,5,5,5,4,4,4,4,2,3,4,3,5,4,4,5,2,3,4,3,5,4,5,4,3,3,4,4,3,4,2,5,10
+VEN-03,Ventas,Operativo,3 a 5 años,Diurno,4,5,4,5,4,4,5,4,5,3,5,5,5,4,2,5,2,2,3,2,3,4,4,4,4,4,5,5,5,3,4,4,7
+MAN-02,Mantenimiento,Operativo,Más de 5 años,Rotativo,3,5,4,4,2,1,2,3,3,4,4,2,4,5,3,4,1,1,1,3,2,2,4,3,2,1,4,3,2,3,4,4,8
+VEN-01,Ventas,Operativo,1 a 3 años,Diurno,4,4,3,4,3,3,2,4,5,4,1,4,4,4,3,4,4,3,2,5,5,5,5,3,4,3,3,4,4,4,3,5,7
+LOG-10,Logística y Distribución,Operativo,Menos de 1 año,Diurno,3,5,4,2,4,2,3,3,1,2,3,2,4,4,4,2,3,3,4,1,4,5,4,4,3,2,3,3,4,2,2,4,8
+PRO-13,Producción,Operativo,Menos de 1 año,Rotativo,3,4,3,2,4,2,2,3,3,4,4,4,3,4,2,4,4,2,3,3,5,4,5,4,4,4,4,5,5,3,4,5,7
+PRO-01,Producción,Operativo,1 a 3 años,Diurno,4,5,5,5,5,3,4,4,4,4,4,3,4,4,4,1,1,3,3,4,3,4,4,3,3,2,2,3,5,4,5,4,9
+CAL-02,Calidad,Operativo,1 a 3 años,Diurno,5,5,5,5,4,4,4,4,4,4,3,4,4,5,3,3,4,4,4,5,5,4,5,5,4,4,4,5,4,4,5,5,10
+PRO-14,Producción,Técnico y supervisión,1 a 3 años,Rotativo,5,5,5,4,5,5,4,5,3,4,4,3,4,4,4,2,4,2,4,2,5,5,4,5,4,5,5,4,4,3,2,5,9
+VEN-05,Ventas,Operativo,3 a 5 años,Diurno,4,5,3,3,3,2,3,2,5,3,4,5,3,2,4,3,3,4,4,3,4,5,3,4,4,2,2,5,4,4,3,5,9
+LOG-06,Logística y Distribución,Operativo,Menos de 1 año,Diurno,1,1,2,1,1,1,1,1,3,1,1,4,3,3,4,2,2,2,2,4,5,3,4,4,2,3,1,5,1,1,1,2,0
+PRO-06,Producción,Operativo,Más de 5 años,Diurno,4,4,4,4,4,3,3,3,4,2,2,4,4,4,4,4,3,2,4,5,4,5,3,5,5,5,5,2,4,5,5,5,9
+ADM-03,Administración y Finanzas,Profesional y jefatura,1 a 3 años,Diurno,5,5,5,5,3,4,4,5,5,3,4,4,4,4,4,3,3,4,4,2,5,5,4,5,5,4,5,5,5,5,5,5,10
+PRO-06,Producción,Operativo,1 a 3 años,Diurno,4,4,2,3,3,4,4,4,5,4,4,3,4,2,4,4,2,3,3,3,5,4,4,4,4,4,4,4,4,5,4,5,8
+PRO-05,Producción,Operativo,3 a 5 años,Diurno,4,5,5,4,4,3,4,4,4,5,4,5,4,5,4,4,3,4,3,5,4,4,4,5,3,4,2,5,5,5,5,5,10
+ADM-04,Administración y Finanzas,Técnico y supervisión,3 a 5 años,Diurno,5,5,4,4,1,2,2,4,5,5,4,3,2,4,4,3,3,2,3,4,5,4,4,5,4,4,3,4,4,2,2,3,7
+VEN-06,Ventas,Operativo,Menos de 1 año,Diurno,2,2,2,2,1,2,3,1,4,4,4,3,5,5,1,5,1,1,1,3,4,4,4,4,2,3,2,5,2,1,2,5,7
+PRO-12,Producción,Operativo,Más de 5 años,Rotativo,2,3,3,2,2,2,1,2,1,1,1,1,1,3,4,2,2,2,3,4,4,3,4,5,3,3,3,2,3,2,4,4,8
+LOG-06,Logística y Distribución,Operativo,1 a 3 años,Diurno,2,2,2,2,2,2,3,2,2,2,3,1,4,2,4,3,1,4,3,5,4,3,2,2,3,5,4,4,2,1,4,5,5
+LOG-08,Logística y Distribución,Operativo,3 a 5 años,Diurno,4,4,4,2,4,3,4,3,4,3,3,2,2,3,4,2,2,3,1,4,5,5,5,4,4,4,2,3,3,3,4,4,4
+VEN-03,Ventas,Operativo,Más de 5 años,Diurno,5,5,4,4,3,4,5,4,4,4,4,4,4,4,4,3,4,2,2,4,5,4,4,4,4,5,4,2,5,4,5,4,7
+MAN-03,Mantenimiento,Operativo,Menos de 1 año,Rotativo,2,3,3,2,4,2,4,4,3,5,3,4,1,1,4,3,4,4,4,5,4,4,3,3,4,4,4,4,5,4,4,5,9
+LOG-09,Logística y Distribución,Operativo,Más de 5 años,Diurno,2,2,1,3,2,3,3,1,5,2,3,2,4,4,4,4,2,2,2,4,4,4,2,5,2,4,4,3,2,3,2,5,1
+CAL-01,Calidad,Técnico y supervisión,Más de 5 años,Rotativo,5,5,4,4,2,1,3,3,3,4,4,2,3,4,4,4,3,3,2,4,4,4,3,4,4,5,2,5,2,2,2,5,7
+PRO-14,Producción,Técnico y supervisión,Menos de 1 año,Rotativo,4,4,4,4,2,4,3,3,5,4,2,2,4,3,4,2,4,2,5,4,2,4,5,5,4,4,4,4,3,4,1,3,7
+PRO-14,Producción,Operativo,3 a 5 años,Rotativo,4,5,4,4,4,4,3,3,5,4,4,4,1,2,5,2,2,3,1,3,3,4,4,3,4,4,3,3,4,5,4,4,7
+CAL-01,Calidad,Operativo,1 a 3 años,Rotativo,3,4,2,1,2,1,1,1,5,2,2,3,3,2,5,3,4,2,3,3,4,3,3,4,4,3,3,4,3,4,2,4,7
+PRO-05,Producción,Profesional y jefatura,1 a 3 años,Diurno,2,4,2,2,4,2,4,4,4,3,3,3,2,4,5,3,2,3,2,3,5,4,5,5,4,1,4,2,4,2,2,4,0
+VEN-03,Ventas,Operativo,Menos de 1 año,Diurno,4,4,3,4,3,4,5,2,3,4,3,4,2,3,5,4,2,1,2,4,5,4,4,2,2,4,3,1,4,4,4,5,7
+PRO-02,Producción,Operativo,Más de 5 años,Diurno,3,3,2,4,4,4,4,3,2,1,2,2,3,5,3,4,3,1,4,2,4,4,2,4,2,2,2,2,4,3,3,5,6
+PRO-11,Producción,Profesional y jefatura,3 a 5 años,Diurno,4,4,1,2,1,4,4,3,5,4,3,3,4,1,5,3,3,2,2,3,3,2,3,2,4,4,4,4,4,2,2,5,7
+VEN-03,Ventas,Operativo,Más de 5 años,Diurno,2,4,1,1,1,2,3,2,3,4,3,2,3,4,5,3,1,1,1,1,4,4,4,3,2,4,2,4,2,1,2,4,0
+PRO-01,Producción,Operativo,Menos de 1 año,Diurno,2,4,3,2,3,1,3,1,1,3,2,2,4,3,2,4,3,3,4,4,4,3,3,4,4,2,2,4,2,2,2,2,6
+CAL-01,Calidad,Operativo,3 a 5 años,Rotativo,3,4,3,3,4,2,2,2,3,4,4,3,4,5,3,2,3,4,3,4,2,1,1,1,2,4,2,4,3,3,4,4,6
+ADM-02,Administración y Finanzas,Operativo,Más de 5 años,Diurno,5,4,4,5,4,5,5,4,5,5,4,4,4,3,3,4,2,1,2,2,5,4,5,5,4,4,5,4,5,4,5,4,9
+MAN-01,Mantenimiento,Operativo,Más de 5 años,Diurno,5,4,5,3,2,4,2,2,3,4,3,3,3,4,3,4,4,3,3,5,5,4,5,4,1,2,3,4,2,2,2,2,2
+ADM-01,Administración y Finanzas,Operativo,Más de 5 años,Diurno,3,4,3,3,4,3,3,4,4,2,2,3,5,4,2,4,4,4,4,2,5,4,4,5,4,3,2,5,4,3,3,5,8
+LOG-05,Logística y Distribución,Operativo,3 a 5 años,Diurno,5,4,5,4,3,2,4,3,3,1,2,3,4,4,4,4,2,2,4,5,5,5,3,5,3,5,4,4,4,4,4,5,8
+PRO-14,Producción,Operativo,Más de 5 años,Rotativo,5,5,4,4,5,3,5,4,4,5,5,4,2,3,4,2,1,3,1,4,4,4,5,4,3,3,1,3,4,5,5,5,7
+LOG-01,Logística y Distribución,Profesional y jefatura,3 a 5 años,Diurno,4,4,4,4,4,3,4,4,3,1,3,4,3,2,4,4,2,1,3,3,4,4,4,4,3,5,4,3,2,4,4,4,9
+VEN-05,Ventas,Técnico y supervisión,1 a 3 años,Diurno,4,3,3,3,3,2,2,2,5,4,3,3,2,2,5,3,1,2,3,2,3,3,2,4,3,4,1,3,2,2,3,4,8
+LOG-01,Logística y Distribución,Operativo,1 a 3 años,Diurno,5,5,4,4,4,4,3,3,2,2,3,2,3,4,5,3,1,1,1,2,4,5,5,5,5,4,4,4,4,4,5,4,9
+MAN-03,Mantenimiento,Operativo,1 a 3 años,Rotativo,2,2,4,3,3,3,4,3,5,4,3,4,2,3,4,3,3,2,4,4,5,4,4,4,3,4,2,4,5,5,4,5,10
+LOG-08,Logística y Distribución,Profesional y jefatura,3 a 5 años,Diurno,3,3,1,2,2,1,2,3,3,1,1,3,2,1,4,3,2,1,2,1,5,4,3,4,2,3,2,4,2,2,2,3,7
+LOG-09,Logística y Distribución,Operativo,Más de 5 años,Diurno,4,5,3,4,4,5,5,4,5,5,5,5,3,3,4,4,5,4,5,4,4,4,4,4,5,5,2,3,4,3,3,5,9
+PRO-14,Producción,Operativo,1 a 3 años,Rotativo,2,2,3,3,3,2,1,3,4,2,3,3,3,4,3,4,2,2,2,4,5,3,4,3,4,4,4,4,2,3,3,3,4
+VEN-03,Ventas,Técnico y supervisión,3 a 5 años,Diurno,4,5,5,5,2,3,2,2,5,4,4,5,2,1,4,1,2,1,1,1,4,4,4,4,2,4,4,4,4,2,4,5,10
+MAN-01,Mantenimiento,Técnico y supervisión,3 a 5 años,Diurno,2,2,3,3,2,2,3,3,2,2,1,1,1,1,5,2,3,1,2,2,4,2,1,2,2,2,1,4,2,2,2,3,9
+LOG-03,Logística y Distribución,Operativo,Más de 5 años,Diurno,4,4,4,3,4,3,2,3,4,2,4,3,4,4,3,4,4,2,3,4,3,3,2,4,4,5,3,4,4,3,3,4,7
+LOG-09,Logística y Distribución,Operativo,1 a 3 años,Diurno,3,4,3,3,3,3,3,4,3,4,3,1,1,2,5,1,3,2,3,4,5,4,3,5,1,1,1,2,4,4,3,5,7
+PRO-14,Producción,Operativo,3 a 5 años,Rotativo,5,4,5,4,3,2,3,4,5,5,3,4,5,5,3,5,3,3,3,4,5,4,5,4,5,3,4,4,5,5,4,5,10
+ADM-04,Administración y Finanzas,Operativo,Más de 5 años,Diurno,4,2,1,3,3,4,4,3,4,4,5,5,5,5,2,4,4,4,3,4,5,3,3,4,4,4,4,4,5,4,5,5,10
+PRO-11,Producción,Operativo,Menos de 1 año,Diurno,5,5,5,5,5,1,5,3,4,2,4,4,4,4,4,4,4,4,4,4,4,4,4,5,3,3,4,4,4,5,4,5,8
+PRO-01,Producción,Técnico y supervisión,3 a 5 años,Diurno,4,5,4,4,4,4,5,5,4,4,3,5,5,5,3,4,4,4,3,4,5,5,4,4,4,5,4,3,5,5,4,5,9
+ADM-03,Administración y Finanzas,Técnico y supervisión,1 a 3 años,Diurno,4,3,4,4,5,5,4,4,5,4,4,3,5,5,3,5,5,5,5,5,5,5,5,5,4,4,4,5,5,4,4,5,10
+MAN-01,Mantenimiento,Profesional y jefatura,1 a 3 años,Diurno,5,5,5,3,5,5,5,5,5,4,4,4,4,3,4,4,5,4,5,3,5,5,3,5,5,5,4,5,5,5,5,5,10
+PRO-15,Producción,Operativo,1 a 3 años,Rotativo,4,4,3,5,2,2,2,2,2,1,2,4,4,2,4,2,1,1,3,1,4,4,4,4,4,4,2,2,4,3,5,5,8
+PRO-14,Producción,Operativo,Menos de 1 año,Rotativo,5,5,5,4,4,1,2,2,5,4,4,4,4,3,4,3,2,1,2,2,3,4,1,4,5,4,3,4,3,4,3,4,6
+VEN-05,Ventas,Operativo,Menos de 1 año,Diurno,4,5,4,4,1,1,2,2,4,3,3,4,4,4,5,3,3,4,4,2,5,4,3,4,4,4,4,1,5,5,4,5,8
+PRO-02,Producción,Operativo,1 a 3 años,Diurno,4,4,4,3,4,3,4,4,2,2,3,3,4,4,3,4,4,2,5,4,1,4,3,3,3,3,2,3,4,3,3,4,8
+MAN-02,Mantenimiento,Técnico y supervisión,Más de 5 años,Rotativo,5,5,5,5,5,5,4,5,5,5,5,5,2,1,5,3,4,4,5,2,4,4,3,2,3,4,2,2,4,4,5,5,10
+PRO-13,Producción,Operativo,Menos de 1 año,Rotativo,4,5,5,4,2,3,2,1,4,4,3,4,4,4,2,2,3,1,4,3,5,4,4,4,2,3,2,2,4,4,2,4,8
+VEN-04,Ventas,Operativo,Menos de 1 año,Diurno,5,5,5,4,2,3,2,3,5,3,3,2,4,4,3,4,4,3,4,4,4,5,3,3,5,4,5,4,4,4,3,4,5
+LOG-08,Logística y Distribución,Operativo,Más de 5 años,Diurno,3,4,2,2,2,3,3,3,5,3,4,3,2,2,4,3,4,2,3,2,2,4,4,4,3,4,3,3,4,4,4,5,3
+LOG-09,Logística y Distribución,Operativo,Más de 5 años,Diurno,4,4,4,3,2,2,3,3,3,4,4,3,3,2,4,3,4,4,5,4,4,5,5,4,4,5,4,5,4,4,5,5,9
+LOG-09,Logística y Distribución,Técnico y supervisión,1 a 3 años,Diurno,4,4,3,2,4,3,3,4,4,4,4,4,2,2,4,4,2,2,2,3,4,4,3,4,2,5,3,4,4,4,4,5,9
+PRO-05,Producción,Operativo,Menos de 1 año,Diurno,4,4,3,4,3,1,3,4,3,2,3,3,4,4,4,3,2,3,1,2,4,3,4,4,3,3,4,4,4,3,4,4,8
+LOG-08,Logística y Distribución,Operativo,1 a 3 años,Diurno,3,4,3,3,2,1,2,3,4,3,3,2,5,4,3,4,1,2,4,1,3,3,1,3,3,4,1,3,2,2,2,4,8
+PRO-07,Producción,Operativo,1 a 3 años,Rotativo,3,5,5,4,4,3,3,4,4,3,2,3,1,3,4,2,3,3,3,3,5,5,4,4,4,5,5,4,4,4,4,5,7
+LOG-08,Logística y Distribución,Operativo,1 a 3 años,Diurno,4,5,5,4,2,3,4,4,2,5,4,4,2,1,5,3,3,2,3,2,4,5,3,2,5,4,5,2,5,4,3,4,9
+VEN-02,Ventas,Operativo,Menos de 1 año,Diurno,4,4,4,4,5,4,4,4,5,4,4,4,4,2,5,1,4,3,2,3,5,5,4,5,4,5,4,4,4,3,5,4,8
+VEN-03,Ventas,Técnico y supervisión,1 a 3 años,Diurno,5,4,4,3,4,3,2,2,4,2,2,3,3,4,2,3,2,3,2,4,4,4,5,4,4,4,4,4,4,4,4,5,8
+PRO-13,Producción,Operativo,Más de 5 años,Rotativo,5,5,5,5,4,4,3,2,4,5,4,4,3,3,3,4,3,4,4,3,4,5,5,5,4,5,4,4,5,4,3,5,10
+PRO-13,Producción,Operativo,Menos de 1 año,Rotativo,4,5,2,2,4,4,1,4,4,2,3,3,4,2,5,4,4,2,4,4,4,2,3,2,3,3,2,5,4,4,2,4,8
+PRO-08,Producción,Operativo,3 a 5 años,Rotativo,3,4,4,2,2,3,4,2,4,2,2,4,3,3,5,3,1,1,1,4,5,4,4,4,4,1,2,3,3,3,2,4,7
+LOG-02,Logística y Distribución,Operativo,3 a 5 años,Diurno,4,3,4,1,3,1,2,2,3,4,2,3,5,3,3,4,3,1,3,2,5,5,4,4,4,5,4,3,4,4,3,4,9
+CAL-01,Calidad,Operativo,Más de 5 años,Rotativo,5,5,4,5,4,4,3,4,4,3,3,3,2,3,4,3,1,2,3,4,2,3,3,3,4,4,4,4,4,4,4,5,6
+MAN-03,Mantenimiento,Operativo,Más de 5 años,Rotativo,3,4,1,1,1,2,2,1,4,4,3,3,2,2,5,2,2,2,3,4,3,2,3,2,2,2,2,4,2,3,1,5,5
+ADM-02,Administración y Finanzas,Técnico y supervisión,1 a 3 años,Diurno,4,5,5,5,4,4,4,4,5,5,4,4,4,5,3,4,3,4,4,4,5,5,4,5,4,5,5,3,4,5,4,5,10
+PRO-06,Producción,Operativo,Más de 5 años,Diurno,5,5,4,4,4,3,4,4,5,5,5,5,5,5,2,5,2,4,4,5,4,5,5,5,5,4,2,4,5,4,5,4,8
+VEN-06,Ventas,Operativo,Más de 5 años,Diurno,3,4,3,3,3,1,3,3,3,4,4,2,5,4,4,4,3,4,1,4,4,3,4,4,3,3,3,3,4,4,3,5,5
+LOG-09,Logística y Distribución,Operativo,1 a 3 años,Diurno,3,4,4,2,2,2,4,2,4,4,3,2,4,3,5,2,2,2,3,2,3,2,1,2,3,4,4,2,3,4,4,5,7
+ADM-02,Administración y Finanzas,Operativo,Más de 5 años,Diurno,5,5,4,5,4,4,4,4,4,5,3,4,3,4,1,3,3,5,4,5,5,5,4,4,2,4,3,2,5,5,5,5,10
+LOG-04,Logística y Distribución,Operativo,Más de 5 años,Diurno,4,4,3,3,2,2,3,3,3,2,4,3,3,2,4,3,3,3,4,2,5,4,4,4,4,4,4,5,3,4,3,5,7
+LOG-08,Logística y Distribución,Técnico y supervisión,Más de 5 años,Diurno,4,4,4,4,5,5,5,5,4,4,4,4,2,3,4,3,4,3,4,5,5,5,3,4,4,4,3,3,5,5,4,4,9
+PRO-14,Producción,Operativo,1 a 3 años,Rotativo,4,4,4,3,2,1,2,4,3,1,3,3,2,1,5,2,2,3,2,5,3,2,4,3,3,3,3,3,2,2,3,5,6
+ADM-04,Administración y Finanzas,Técnico y supervisión,Más de 5 años,Diurno,4,4,4,2,3,2,3,2,5,4,5,3,4,5,2,4,4,5,5,5,5,4,5,5,4,4,4,4,4,4,4,4,7
+LOG-03,Logística y Distribución,Operativo,Más de 5 años,Diurno,4,5,4,3,4,4,4,4,2,3,2,2,4,4,4,4,2,4,3,4,4,5,4,5,4,5,4,4,4,5,5,5,7
+PRO-09,Producción,Técnico y supervisión,Menos de 1 año,Rotativo,5,5,5,5,5,5,5,5,5,5,5,4,4,2,3,4,4,5,3,4,4,4,5,4,5,5,5,3,5,5,5,4,10
+PRO-13,Producción,Operativo,Más de 5 años,Rotativo,4,4,4,4,2,1,3,3,3,3,3,3,2,2,5,1,1,2,2,2,4,2,2,1,3,3,1,3,3,3,3,3,7
+PRO-15,Producción,Operativo,Más de 5 años,Rotativo,5,5,5,4,4,5,4,3,4,3,4,4,4,3,3,3,2,1,2,4,5,5,5,5,2,2,3,5,3,4,4,4,8
+PRO-07,Producción,Operativo,Menos de 1 año,Rotativo,3,4,4,4,2,2,4,4,3,2,2,3,4,1,3,3,2,1,2,2,4,4,4,4,3,4,4,2,2,2,2,3,5
+PRO-06,Producción,Técnico y supervisión,1 a 3 años,Diurno,5,5,4,5,3,4,4,4,5,3,3,4,2,2,4,2,4,3,3,4,4,4,4,4,3,4,4,1,5,4,4,4,9
+LOG-08,Logística y Distribución,Operativo,Menos de 1 año,Diurno,4,5,4,4,3,2,4,2,4,4,4,4,2,1,5,3,4,4,2,4,5,5,5,5,5,4,4,2,5,4,4,5,10
+LOG-05,Logística y Distribución,Operativo,Menos de 1 año,Diurno,4,4,3,4,4,3,3,4,3,5,3,5,5,3,3,4,4,4,3,3,5,4,4,4,2,2,1,3,5,4,4,4,10
+LOG-08,Logística y Distribución,Operativo,Más de 5 años,Diurno,3,3,4,3,2,1,2,2,4,3,2,2,3,3,4,3,4,4,4,5,4,5,4,4,2,4,4,3,4,2,4,4,6
+PRO-06,Producción,Operativo,1 a 3 años,Diurno,5,5,5,5,5,4,5,4,5,4,4,4,4,5,1,5,1,1,1,3,4,3,4,4,4,4,4,4,5,4,4,5,10
+PRO-12,Producción,Operativo,3 a 5 años,Rotativo,3,2,4,3,3,3,2,2,4,3,3,3,3,3,3,4,2,3,3,2,3,4,4,4,4,4,3,4,2,2,4,3,6
+PRO-07,Producción,Operativo,Menos de 1 año,Rotativo,4,3,3,3,3,4,3,2,2,4,3,2,5,5,1,5,5,5,5,5,3,5,3,4,5,4,5,4,4,5,4,5,10
+PRO-03,Producción,Operativo,Más de 5 años,Diurno,5,4,5,5,4,4,3,3,4,4,4,4,3,4,2,3,4,4,2,5,5,4,3,4,5,4,4,3,5,4,5,4,8
+LOG-06,Logística y Distribución,Operativo,3 a 5 años,Diurno,2,2,2,2,1,1,1,1,3,1,1,2,1,3,5,1,2,3,2,4,1,4,2,4,3,2,1,2,2,1,1,3,0
+VEN-02,Ventas,Operativo,Menos de 1 año,Diurno,5,5,5,5,3,4,4,4,4,4,4,5,4,4,4,3,4,1,2,4,4,4,4,3,4,4,4,2,5,5,4,4,10
+PRO-07,Producción,Operativo,Más de 5 años,Rotativo,3,4,2,2,2,2,4,2,4,3,2,3,2,1,4,3,4,3,2,5,4,4,5,3,2,4,4,5,3,4,4,5,10
+PRO-10,Producción,Técnico y supervisión,Más de 5 años,Diurno,2,2,1,3,2,1,1,2,4,3,3,3,3,2,3,2,1,4,3,2,3,4,3,2,4,4,2,2,2,3,2,5,7
+MAN-02,Mantenimiento,Técnico y supervisión,1 a 3 años,Rotativo,3,4,2,4,2,1,2,1,4,3,3,3,1,1,4,1,2,3,1,4,3,5,5,4,2,2,2,4,2,3,2,5,6
+PRO-15,Producción,Operativo,Más de 5 años,Rotativo,5,5,5,5,4,4,3,4,5,5,5,5,4,4,2,5,4,4,4,5,4,5,5,4,5,4,5,2,5,5,5,5,10
+VEN-02,Ventas,Operativo,Más de 5 años,Diurno,3,4,4,2,2,1,2,3,2,3,2,4,1,1,5,2,3,1,2,2,3,4,3,4,2,2,3,4,2,2,3,4,7
+PRO-12,Producción,Operativo,1 a 3 años,Rotativo,5,5,4,4,4,4,3,4,3,3,4,2,4,4,2,4,2,3,1,2,5,3,4,4,3,3,4,3,4,4,3,3,6
+PRO-04,Producción,Técnico y supervisión,Menos de 1 año,Diurno,5,5,5,3,4,4,4,4,5,5,2,4,4,4,3,4,2,2,2,2,4,4,3,4,4,4,1,3,4,5,4,5,9
+PRO-13,Producción,Técnico y supervisión,1 a 3 años,Rotativo,2,3,1,2,2,2,1,2,3,3,1,2,4,4,3,4,1,2,4,2,2,3,2,4,1,1,1,3,1,1,1,3,2
+LOG-02,Logística y Distribución,Técnico y supervisión,Más de 5 años,Diurno,3,5,4,4,4,3,4,2,4,3,4,5,2,2,3,5,5,5,5,5,5,5,5,4,4,3,2,4,5,4,4,4,8
+VEN-01,Ventas,Operativo,Menos de 1 año,Diurno,5,4,4,4,3,4,2,2,5,4,5,3,3,2,4,3,2,2,4,3,4,4,3,4,4,4,2,2,4,3,4,4,9
+PRO-10,Producción,Operativo,1 a 3 años,Diurno,4,5,5,4,5,4,5,4,5,5,4,5,4,4,4,5,4,4,3,4,5,3,4,4,5,4,5,5,4,3,5,3,8
+CAL-01,Calidad,Profesional y jefatura,Más de 5 años,Diurno,3,4,4,2,3,4,3,3,4,3,3,3,3,2,4,3,2,1,2,3,4,5,3,3,3,3,2,2,4,2,4,2,6
+PRO-09,Producción,Operativo,1 a 3 años,Rotativo,5,4,5,4,3,3,4,3,5,4,4,3,1,1,5,4,3,2,4,3,3,5,4,4,2,4,2,5,4,4,4,4,10
+PRO-05,Producción,Operativo,Menos de 1 año,Diurno,3,4,4,4,2,1,3,1,4,4,4,4,2,2,3,3,4,3,4,4,5,5,4,5,4,4,3,3,4,4,5,4,6
+PRO-13,Producción,Operativo,Menos de 1 año,Rotativo,4,5,4,4,3,5,4,3,4,4,4,5,2,3,2,3,3,3,4,4,2,2,3,2,2,2,4,5,4,4,4,4,9
+PRO-09,Producción,Técnico y supervisión,Más de 5 años,Rotativo,5,5,5,3,5,4,4,3,4,4,2,3,1,1,4,1,1,2,1,4,4,4,3,5,3,3,3,5,5,4,4,5,10
+PRO-05,Producción,Técnico y supervisión,Más de 5 años,Diurno,5,5,4,4,5,4,4,4,5,4,4,4,2,2,5,2,2,4,4,4,5,3,3,3,4,4,2,3,4,4,3,5,9
+VEN-02,Ventas,Profesional y jefatura,1 a 3 años,Diurno,4,5,4,4,5,4,5,4,5,5,5,4,4,4,5,4,2,2,3,3,5,4,3,4,4,4,4,2,4,4,4,5,8
+PRO-09,Producción,Operativo,3 a 5 años,Rotativo,5,5,4,4,4,5,5,5,5,3,4,3,2,4,4,4,4,4,3,4,4,4,3,4,5,5,5,4,5,5,5,5,9
+LOG-07,Logística y Distribución,Técnico y supervisión,1 a 3 años,Diurno,5,4,3,4,2,2,2,3,4,2,3,5,3,3,3,3,4,5,5,5,4,5,4,3,4,4,2,4,5,4,4,5,7
+VEN-02,Ventas,Operativo,Más de 5 años,Diurno,5,5,5,5,3,3,4,3,5,4,4,3,4,5,2,5,2,4,4,2,5,5,5,5,4,4,4,4,5,4,5,4,10
+LOG-08,Logística y Distribución,Operativo,1 a 3 años,Diurno,5,5,5,5,5,4,4,4,5,5,4,5,3,3,4,3,4,4,5,3,5,5,5,4,3,3,5,4,5,5,5,5,10
+LOG-08,Logística y Distribución,Operativo,Más de 5 años,Diurno,3,2,3,3,3,2,3,1,4,4,4,3,3,3,4,4,4,4,4,2,4,5,4,3,4,2,4,2,4,3,3,4,5
+PRO-05,Producción,Operativo,1 a 3 años,Diurno,3,3,3,3,1,3,2,2,4,4,3,4,2,4,4,2,3,3,1,3,3,3,2,3,2,2,4,4,2,3,1,5,3
+VEN-03,Ventas,Operativo,Más de 5 años,Diurno,5,4,4,4,3,2,3,4,4,3,4,4,4,2,5,2,3,2,2,2,4,4,4,2,3,4,3,5,3,3,4,4,9
+LOG-05,Logística y Distribución,Operativo,Más de 5 años,Diurno,3,4,3,2,3,1,1,2,2,2,2,3,1,2,4,3,3,4,4,4,2,3,2,4,3,4,2,3,3,4,3,4,5
+LOG-07,Logística y Distribución,Operativo,1 a 3 años,Diurno,2,2,1,2,3,2,2,4,4,3,2,2,3,2,4,3,4,3,4,3,4,4,4,4,1,3,3,4,1,3,2,4,5
+ADM-02,Administración y Finanzas,Operativo,Menos de 1 año,Diurno,5,4,4,5,4,5,4,4,4,4,4,4,4,5,2,5,2,2,4,3,5,5,5,4,4,4,4,4,4,4,3,5,8
+VEN-02,Ventas,Técnico y supervisión,3 a 5 años,Diurno,4,5,4,4,3,4,3,5,4,4,4,4,4,5,3,5,4,3,4,2,4,4,4,4,5,3,4,3,5,5,5,5,10
+CAL-02,Calidad,Técnico y supervisión,Menos de 1 año,Diurno,5,5,5,5,4,5,4,5,4,2,4,4,5,5,2,5,3,4,3,3,4,5,4,4,4,4,5,4,5,5,4,5,10
+PRO-07,Producción,Operativo,1 a 3 años,Rotativo,3,3,3,1,3,1,2,2,2,1,2,3,4,3,3,4,3,2,2,1,4,4,4,4,2,2,3,5,2,3,3,3,1
+PRO-09,Producción,Operativo,Más de 5 años,Rotativo,3,4,3,1,2,2,2,1,4,4,2,2,2,2,5,3,4,3,4,2,2,3,1,2,2,3,1,2,3,4,3,5,5
+PRO-01,Producción,Operativo,1 a 3 años,Diurno,4,4,3,4,3,4,4,3,3,1,2,2,4,4,4,5,2,3,3,4,5,4,5,3,2,2,2,5,2,2,2,4,5
+PRO-02,Producción,Operativo,1 a 3 años,Diurno,5,5,5,5,4,4,5,5,5,5,4,2,5,5,4,5,5,5,2,4,4,3,4,5,5,4,4,5,5,4,4,5,10
+PRO-07,Producción,Operativo,1 a 3 años,Rotativo,3,4,4,3,4,3,3,4,4,1,2,2,2,3,2,3,2,2,2,4,5,4,4,5,4,2,4,5,4,2,2,4,5
+LOG-04,Logística y Distribución,Operativo,3 a 5 años,Diurno,2,4,3,3,4,4,2,1,4,5,3,3,2,3,5,3,2,1,3,2,5,5,5,5,5,3,2,5,4,2,3,5,5
+ADM-03,Administración y Finanzas,Profesional y jefatura,Más de 5 años,Diurno,4,5,4,3,4,3,5,4,5,5,3,4,5,3,4,4,3,3,1,4,5,5,4,4,2,2,3,3,4,4,3,5,8
+VEN-05,Ventas,Operativo,1 a 3 años,Diurno,4,5,4,3,2,4,4,3,5,4,3,4,5,4,4,4,1,2,3,3,5,5,5,5,3,3,2,4,3,2,3,4,6
+LOG-10,Logística y Distribución,Operativo,1 a 3 años,Diurno,2,4,3,3,1,2,1,2,3,2,2,2,2,1,4,4,2,1,3,2,1,4,2,2,4,1,2,4,1,3,1,3,3
+MAN-01,Mantenimiento,Operativo,3 a 5 años,Diurno,2,4,1,4,3,2,2,2,3,2,2,3,5,4,3,4,3,3,1,3,5,4,4,5,3,2,1,2,2,2,2,4,3
+PRO-05,Producción,Operativo,1 a 3 años,Diurno,4,4,4,4,4,3,2,3,4,4,2,1,3,3,4,2,2,1,4,4,5,5,4,5,3,4,3,4,3,4,4,4,7
+MAN-01,Mantenimiento,Técnico y supervisión,Más de 5 años,Diurno,3,2,2,1,1,1,1,1,4,2,2,2,3,3,4,4,1,1,2,3,4,4,2,2,1,2,1,3,1,2,2,3,4
+PRO-07,Producción,Operativo,1 a 3 años,Rotativo,5,5,5,5,4,2,2,4,5,5,4,5,2,3,5,2,4,4,5,5,5,5,3,4,4,5,4,5,5,5,4,5,10
+PRO-14,Producción,Operativo,Menos de 1 año,Rotativo,5,5,4,4,4,4,5,4,5,5,5,5,5,5,2,5,4,2,2,3,4,4,4,5,2,4,3,4,5,5,5,4,10
+LOG-07,Logística y Distribución,Operativo,3 a 5 años,Diurno,2,3,1,2,1,1,2,1,2,2,2,3,2,1,3,3,1,1,1,2,4,4,4,3,3,4,4,4,2,2,2,3,7
+CAL-01,Calidad,Operativo,Más de 5 años,Rotativo,2,2,3,3,4,4,3,3,4,4,3,4,2,4,5,1,3,3,2,4,4,4,5,4,4,5,3,3,4,4,2,5,9
+PRO-14,Producción,Operativo,Más de 5 años,Rotativo,4,4,2,2,1,2,1,1,4,3,2,3,4,3,3,3,2,4,2,4,3,4,3,4,2,3,2,4,3,2,3,3,1
+VEN-06,Ventas,Profesional y jefatura,Más de 5 años,Diurno,1,3,1,1,2,2,2,2,2,2,1,2,2,4,3,2,2,2,2,2,4,4,3,5,1,1,2,3,1,1,1,2,0
+VEN-03,Ventas,Operativo,Menos de 1 año,Diurno,4,5,5,4,4,2,4,4,4,2,2,4,5,4,3,5,2,2,4,3,4,5,5,4,5,5,5,3,4,4,3,4,8
+LOG-04,Logística y Distribución,Operativo,Menos de 1 año,Diurno,4,2,4,2,2,2,2,2,4,5,2,4,4,4,4,4,3,3,3,3,4,3,3,4,4,3,5,4,3,3,3,3,7
+CAL-02,Calidad,Profesional y jefatura,Más de 5 años,Diurno,5,4,4,4,5,5,5,4,5,5,5,4,4,4,3,3,5,5,5,5,5,5,5,5,5,5,5,3,5,5,5,5,8
+PRO-02,Producción,Profesional y jefatura,Más de 5 años,Diurno,5,5,4,3,4,2,4,4,4,4,5,4,2,2,4,1,4,4,5,4,4,4,4,3,4,3,4,2,4,4,3,5,10
+LOG-10,Logística y Distribución,Operativo,1 a 3 años,Diurno,2,4,2,3,2,2,4,4,1,2,1,2,1,1,5,3,3,2,3,3,3,2,2,4,3,4,2,3,4,4,3,5,6
+PRO-14,Producción,Operativo,Más de 5 años,Rotativo,5,5,4,5,4,4,4,4,4,4,4,4,3,4,2,5,3,3,3,4,3,4,5,3,4,4,2,4,5,5,4,5,9
+PRO-08,Producción,Técnico y supervisión,1 a 3 años,Rotativo,3,3,4,3,2,1,2,2,5,5,4,5,2,1,5,2,5,5,5,5,1,3,4,2,4,3,2,4,3,3,4,4,7
+PRO-08,Producción,Operativo,Más de 5 años,Rotativo,3,3,4,3,4,4,5,4,5,4,4,3,5,4,4,4,4,4,4,5,4,5,2,4,4,4,3,3,5,4,4,5,10
+PRO-03,Producción,Operativo,Menos de 1 año,Diurno,5,5,5,5,5,4,4,5,4,3,3,4,5,5,2,4,4,4,5,2,5,5,4,5,5,5,4,4,5,5,5,5,10
+PRO-07,Producción,Operativo,1 a 3 años,Rotativo,5,5,5,3,4,4,4,3,5,2,4,2,4,4,3,5,4,3,4,4,3,3,4,4,2,5,5,1,4,4,5,2,8
+PRO-10,Producción,Operativo,3 a 5 años,Diurno,3,4,3,4,3,2,2,2,3,4,2,2,4,3,4,5,4,3,3,4,4,3,3,3,3,4,2,4,2,2,2,3,5
+CAL-01,Calidad,Operativo,Menos de 1 año,Rotativo,3,4,3,4,4,2,3,4,4,4,4,3,4,4,4,3,2,2,2,4,4,4,4,4,4,4,4,3,5,4,5,5,10
+VEN-03,Ventas,Técnico y supervisión,1 a 3 años,Diurno,5,5,5,5,4,3,3,4,4,4,3,3,3,3,3,4,3,2,4,5,5,5,5,5,4,5,4,4,3,4,5,5,8
+ADM-03,Administración y Finanzas,Técnico y supervisión,1 a 3 años,Diurno,3,2,4,4,4,3,3,3,1,3,1,3,4,3,4,3,1,1,3,2,4,4,4,4,4,3,2,4,3,3,4,4,7
+PRO-07,Producción,Operativo,Más de 5 años,Rotativo,4,5,4,3,2,2,1,4,4,2,1,2,5,4,4,5,5,4,4,5,1,2,4,4,3,3,2,2,4,4,4,5,8
+VEN-01,Ventas,Operativo,Más de 5 años,Diurno,4,5,4,2,2,1,2,2,3,3,2,3,1,2,4,2,3,1,3,4,4,3,4,4,2,2,1,2,3,2,4,4,7
+VEN-05,Ventas,Técnico y supervisión,Más de 5 años,Diurno,2,3,1,2,3,2,3,1,4,4,4,2,4,3,2,4,2,2,3,2,4,4,1,4,3,2,2,4,4,4,3,4,4
+PRO-14,Producción,Profesional y jefatura,3 a 5 años,Diurno,5,5,5,4,3,2,4,3,3,4,3,4,2,2,5,2,2,2,4,1,4,4,4,4,4,3,2,3,3,3,4,4,9
+LOG-07,Logística y Distribución,Operativo,Más de 5 años,Diurno,2,3,2,1,1,3,2,2,2,4,2,3,1,2,5,3,1,1,1,3,5,5,4,5,3,4,4,3,3,1,1,2,0
+VEN-04,Ventas,Técnico y supervisión,Más de 5 años,Diurno,5,5,4,4,5,3,4,5,5,4,4,4,3,4,4,4,4,4,3,4,5,4,5,4,2,3,4,4,4,4,4,5,10
+LOG-08,Logística y Distribución,Operativo,1 a 3 años,Diurno,2,2,1,3,2,1,2,1,2,1,3,3,1,2,4,4,2,2,2,1,3,2,1,2,2,2,4,4,4,2,4,4,6
+PRO-06,Producción,Operativo,1 a 3 años,Diurno,5,5,5,5,3,4,4,4,4,3,1,2,3,3,2,3,2,2,4,4,4,4,3,5,4,4,4,5,5,4,5,5,10
+PRO-14,Producción,Operativo,Menos de 1 año,Rotativo,2,4,2,4,2,2,3,3,3,3,3,3,2,1,3,3,2,2,3,4,4,2,3,4,3,3,4,4,4,4,4,4,8
+PRO-14,Producción,Operativo,1 a 3 años,Rotativo,4,5,4,4,3,3,4,3,5,4,3,3,4,2,3,4,3,3,2,5,4,4,5,5,5,5,2,4,4,3,2,4,9
+VEN-04,Ventas,Operativo,Más de 5 años,Diurno,4,4,3,3,1,1,1,2,4,4,2,2,5,4,2,4,1,2,1,3,4,5,3,4,4,4,3,3,4,3,3,5,7
+PRO-01,Producción,Operativo,Más de 5 años,Diurno,5,5,5,4,3,2,2,3,4,2,3,1,4,3,4,3,3,2,3,4,4,4,4,5,3,4,3,4,4,4,5,5,5
+LOG-10,Logística y Distribución,Profesional y jefatura,3 a 5 años,Diurno,4,4,3,5,2,3,2,2,4,5,5,4,3,4,4,4,4,2,4,4,5,3,2,4,5,5,5,4,4,4,5,5,7
+VEN-04,Ventas,Profesional y jefatura,3 a 5 años,Diurno,3,4,4,4,4,4,2,4,5,5,4,4,4,4,1,4,1,2,2,4,5,2,4,4,4,4,3,4,4,4,4,5,10
+ADM-03,Administración y Finanzas,Profesional y jefatura,Más de 5 años,Diurno,3,4,4,2,2,3,2,3,3,3,2,4,4,2,3,4,5,4,4,5,4,4,3,1,5,4,4,3,4,3,4,4,7
+MAN-01,Mantenimiento,Técnico y supervisión,Más de 5 años,Diurno,2,4,2,1,3,4,4,3,4,4,4,4,2,2,5,3,3,3,4,2,4,2,2,4,4,5,3,5,3,2,4,3,8
+MAN-03,Mantenimiento,Profesional y jefatura,Más de 5 años,Diurno,2,4,3,1,2,4,4,2,4,3,2,4,2,2,5,4,5,4,4,3,5,5,4,5,1,4,1,3,3,4,3,4,4
+CAL-01,Calidad,Operativo,1 a 3 años,Rotativo,1,3,2,3,1,1,2,2,4,4,4,4,3,4,3,5,4,4,5,2,5,4,2,4,3,1,3,4,2,3,3,1,8
+PRO-14,Producción,Técnico y supervisión,Más de 5 años,Rotativo,4,5,4,3,4,3,5,4,5,4,3,3,1,1,5,1,2,2,4,3,4,4,2,4,1,1,2,4,4,3,4,4,8
+PRO-06,Producción,Operativo,Menos de 1 año,Diurno,5,5,5,4,5,3,5,4,4,3,4,3,4,4,2,5,3,1,3,3,4,4,4,3,3,2,3,4,4,4,5,4,9
+ADM-04,Administración y Finanzas,Técnico y supervisión,1 a 3 años,Diurno,4,5,2,4,4,3,4,4,4,5,4,4,3,4,3,4,4,3,5,3,3,4,4,4,4,2,2,4,4,3,3,5,10
+LOG-05,Logística y Distribución,Operativo,Más de 5 años,Diurno,4,5,5,3,2,3,1,2,2,4,1,1,3,2,5,2,1,3,3,3,3,5,4,4,3,1,2,4,4,4,3,4,8
+LOG-10,Logística y Distribución,Operativo,Más de 5 años,Diurno,4,2,4,4,5,4,4,4,3,4,2,4,3,3,5,3,4,3,4,4,4,4,4,3,5,3,4,4,5,4,5,5,10
+PRO-02,Producción,Operativo,1 a 3 años,Diurno,4,4,4,3,3,3,4,3,2,2,3,1,4,4,3,4,2,1,1,2,4,5,5,3,4,5,5,4,4,4,4,2,8
+VEN-06,Ventas,Operativo,3 a 5 años,Diurno,3,4,4,2,2,2,3,3,2,1,1,1,4,4,4,4,2,2,3,3,3,1,3,4,3,3,1,4,4,4,4,5,10
+PRO-12,Producción,Operativo,3 a 5 años,Rotativo,5,5,5,5,2,2,2,1,4,3,4,3,3,4,4,3,3,5,2,4,4,4,5,4,5,5,5,4,4,4,4,4,8
+MAN-01,Mantenimiento,Técnico y supervisión,Más de 5 años,Diurno,1,1,1,2,2,2,2,1,5,4,4,4,4,4,2,3,2,1,2,2,4,4,3,4,2,4,4,2,2,2,2,3,7
+PRO-03,Producción,Operativo,Más de 5 años,Diurno,4,5,5,5,4,3,2,3,2,2,3,2,2,3,4,4,2,2,3,2,4,4,4,4,3,4,2,4,3,4,4,4,6
+VEN-04,Ventas,Operativo,1 a 3 años,Diurno,4,4,2,2,1,1,2,2,4,4,4,2,2,2,4,4,3,3,2,4,5,5,5,5,4,4,2,5,4,4,4,4,7
+VEN-05,Ventas,Operativo,Menos de 1 año,Diurno,4,4,2,3,4,2,4,2,4,4,4,4,4,3,5,4,3,2,3,2,5,2,4,4,4,4,4,2,2,4,2,2,1
+ADM-03,Administración y Finanzas,Operativo,Menos de 1 año,Diurno,5,5,4,3,4,4,2,4,3,3,4,2,5,4,1,5,4,5,4,4,5,5,4,5,4,4,3,4,5,4,5,5,10
+PRO-12,Producción,Operativo,1 a 3 años,Rotativo,4,4,5,4,5,4,5,5,5,5,4,4,2,3,4,2,3,4,3,4,5,4,3,4,3,4,2,2,5,5,5,5,9
+PRO-14,Producción,Operativo,Más de 5 años,Rotativo,2,4,2,3,2,2,2,3,2,2,2,3,1,3,5,3,4,3,4,4,4,4,2,4,4,5,3,5,2,3,4,5,6
+PRO-09,Producción,Operativo,Menos de 1 año,Rotativo,4,5,5,4,4,3,4,3,2,4,4,5,3,2,5,2,4,4,5,3,4,5,4,5,5,5,4,3,4,4,4,4,8
+VEN-02,Ventas,Técnico y supervisión,Más de 5 años,Diurno,4,5,3,4,3,4,3,2,4,4,5,4,2,2,5,3,1,2,3,2,3,4,3,3,5,4,4,5,4,3,2,5,8
+LOG-10,Logística y Distribución,Operativo,3 a 5 años,Diurno,3,4,3,1,2,1,2,2,2,3,2,2,2,2,5,2,1,3,2,1,2,3,3,4,2,1,1,5,2,2,2,5,4
+PRO-04,Producción,Operativo,Más de 5 años,Diurno,2,5,3,3,4,3,4,4,2,2,3,4,4,4,4,4,4,4,3,3,4,4,2,4,4,4,4,4,4,4,3,5,8
+LOG-06,Logística y Distribución,Operativo,1 a 3 años,Diurno,3,4,2,2,2,2,3,2,2,3,3,4,2,1,5,1,3,3,2,4,5,4,3,5,3,4,3,2,3,3,3,5,7
+PRO-13,Producción,Operativo,Menos de 1 año,Rotativo,4,5,5,2,4,3,5,5,5,4,3,3,3,1,3,3,4,2,3,4,2,3,4,5,5,5,5,3,4,5,3,4,6
+PRO-04,Producción,Operativo,Más de 5 años,Diurno,5,5,5,5,5,5,4,5,5,2,4,4,4,4,4,5,3,4,4,4,5,4,3,4,4,4,2,2,4,4,5,5,8
+ADM-03,Administración y Finanzas,Técnico y supervisión,3 a 5 años,Diurno,5,5,4,4,4,3,4,4,4,5,4,4,5,5,2,4,3,2,3,1,5,4,4,4,5,5,4,4,4,5,5,3,10
+PRO-12,Producción,Operativo,Menos de 1 año,Rotativo,5,4,5,5,4,4,4,4,4,4,3,5,4,4,3,5,4,4,2,4,5,5,5,4,5,5,4,2,5,5,5,5,10
+PRO-04,Producción,Operativo,3 a 5 años,Diurno,5,4,5,4,3,3,4,4,1,3,4,4,1,1,4,2,2,2,2,1,2,5,4,4,4,4,4,3,3,5,3,5,8
+MAN-01,Mantenimiento,Profesional y jefatura,3 a 5 años,Diurno,5,4,5,4,2,2,4,3,5,3,2,1,2,2,5,2,1,1,4,3,5,5,2,3,4,4,4,4,4,3,4,5,6
+PRO-08,Producción,Operativo,3 a 5 años,Rotativo,4,3,3,2,3,1,2,2,3,2,3,3,2,4,4,4,4,4,3,2,4,4,1,2,3,3,4,3,2,2,2,4,6
+VEN-03,Ventas,Operativo,Menos de 1 año,Diurno,4,4,2,4,4,4,5,3,3,1,3,2,1,2,5,2,2,3,5,2,5,3,3,4,3,1,2,3,4,4,4,5,6
+ADM-01,Administración y Finanzas,Operativo,Menos de 1 año,Diurno,3,3,2,3,2,2,2,1,2,2,3,1,5,4,2,4,4,2,3,3,4,3,3,4,2,3,3,2,3,3,3,5,7
+VEN-01,Ventas,Operativo,3 a 5 años,Diurno,4,5,4,4,4,4,4,5,4,4,5,4,3,4,3,5,2,2,4,4,2,3,3,4,4,4,4,3,5,5,5,4,10

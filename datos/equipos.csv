@@ -1,0 +1,41 @@
+equipo,area,turno,dotacion,renuncias_12m
+PRO-01,Producción,Diurno,13,2
+PRO-02,Producción,Diurno,11,1
+PRO-03,Producción,Diurno,10,0
+PRO-04,Producción,Diurno,8,2
+PRO-05,Producción,Diurno,13,0
+PRO-06,Producción,Diurno,16,2
+PRO-07,Producción,Rotativo,19,2
+PRO-08,Producción,Rotativo,15,4
+PRO-09,Producción,Rotativo,16,2
+PRO-10,Producción,Diurno,6,0
+PRO-11,Producción,Diurno,11,0
+PRO-12,Producción,Rotativo,11,1
+PRO-13,Producción,Rotativo,17,7
+PRO-14,Producción,Rotativo,35,5
+PRO-15,Producción,Rotativo,7,0
+LOG-01,Logística y Distribución,Diurno,9,1
+LOG-02,Logística y Distribución,Diurno,8,2
+LOG-03,Logística y Distribución,Diurno,7,3
+LOG-04,Logística y Distribución,Diurno,9,7
+LOG-05,Logística y Distribución,Diurno,17,2
+LOG-06,Logística y Distribución,Diurno,13,8
+LOG-07,Logística y Distribución,Diurno,12,6
+LOG-08,Logística y Distribución,Diurno,23,1
+LOG-09,Logística y Distribución,Diurno,14,2
+LOG-10,Logística y Distribución,Diurno,13,5
+VEN-01,Ventas,Diurno,10,0
+VEN-02,Ventas,Diurno,13,1
+VEN-03,Ventas,Diurno,18,4
+VEN-04,Ventas,Diurno,11,3
+VEN-05,Ventas,Diurno,16,7
+VEN-06,Ventas,Diurno,5,1
+MAN-01,Mantenimiento,Diurno,20,0
+MAN-02,Mantenimiento,Rotativo,13,1
+MAN-03,Mantenimiento,Rotativo,9,2
+CAL-01,Calidad,Rotativo,17,1
+CAL-02,Calidad,Diurno,14,0
+ADM-01,Administración y Finanzas,Diurno,7,1
+ADM-02,Administración y Finanzas,Diurno,11,1
+ADM-03,Administración y Finanzas,Diurno,11,0
+ADM-04,Administración y Finanzas,Diurno,12,0

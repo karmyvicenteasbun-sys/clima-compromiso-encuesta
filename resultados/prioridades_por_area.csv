@@ -1,0 +1,43 @@
+area,respuestas_area,dimension,favorabilidad_area_%,favorabilidad_empresa_%,diferencia_pp,importancia_%,puntaje_prioridad,prioridad
+Producción,173,Reconocimiento,47.5,42.7,4.8,25.9,13.6,1
+Producción,173,Liderazgo del jefe directo,74.4,68.1,6.3,30.0,7.7,2
+Producción,173,Desarrollo,52.9,54.8,-1.9,15.4,7.2,3
+Producción,173,Compensación y beneficios,41.9,39.7,2.2,11.1,6.5,4
+Producción,173,Comunicación,59.0,56.6,2.4,11.4,4.7,5
+Producción,173,Carga de trabajo,46.2,44.3,1.9,2.5,1.4,6
+Producción,173,Seguridad y condiciones,73.6,72.1,1.5,3.6,1.0,7
+Logística y Distribución,80,Reconocimiento,27.2,42.7,-15.5,25.9,18.8,1
+Logística y Distribución,80,Liderazgo del jefe directo,47.5,68.1,-20.6,30.0,15.8,2
+Logística y Distribución,80,Desarrollo,45.6,54.8,-9.2,15.4,8.4,3
+Logística y Distribución,80,Compensación y beneficios,35.0,39.7,-4.7,11.1,7.2,4
+Logística y Distribución,80,Comunicación,50.0,56.6,-6.6,11.4,5.7,5
+Logística y Distribución,80,Carga de trabajo,28.4,44.3,-15.9,2.5,1.8,6
+Logística y Distribución,80,Seguridad y condiciones,65.9,72.1,-6.1,3.6,1.2,7
+Ventas,65,Reconocimiento,38.5,42.7,-4.3,25.9,15.9,1
+Ventas,65,Compensación y beneficios,28.5,39.7,-11.3,11.1,8.0,2
+Ventas,65,Liderazgo del jefe directo,75.4,68.1,7.3,30.0,7.4,3
+Ventas,65,Desarrollo,65.4,54.8,10.6,15.4,5.3,4
+Ventas,65,Comunicación,60.5,56.6,3.9,11.4,4.5,5
+Ventas,65,Carga de trabajo,50.8,44.3,6.5,2.5,1.3,6
+Ventas,65,Seguridad y condiciones,70.8,72.1,-1.3,3.6,1.1,7
+Mantenimiento,39,Reconocimiento,44.2,42.7,1.5,25.9,14.4,1
+Mantenimiento,39,Liderazgo del jefe directo,62.8,68.1,-5.3,30.0,11.2,2
+Mantenimiento,39,Comunicación,47.0,56.6,-9.6,11.4,6.1,3
+Mantenimiento,39,Compensación y beneficios,46.2,39.7,6.4,11.1,6.0,4
+Mantenimiento,39,Desarrollo,61.5,54.8,6.7,15.4,5.9,5
+Mantenimiento,39,Carga de trabajo,40.4,44.3,-3.9,2.5,1.5,6
+Mantenimiento,39,Seguridad y condiciones,67.9,72.1,-4.1,3.6,1.2,7
+Administración y Finanzas,39,Reconocimiento,53.8,42.7,11.1,25.9,11.9,1
+Administración y Finanzas,39,Liderazgo del jefe directo,68.6,68.1,0.5,30.0,9.4,2
+Administración y Finanzas,39,Desarrollo,59.0,54.8,4.2,15.4,6.3,3
+Administración y Finanzas,39,Compensación y beneficios,48.7,39.7,9.0,11.1,5.7,4
+Administración y Finanzas,39,Comunicación,59.8,56.6,3.3,11.4,4.6,5
+Administración y Finanzas,39,Carga de trabajo,57.7,44.3,13.4,2.5,1.1,6
+Administración y Finanzas,39,Seguridad y condiciones,85.9,72.1,13.8,3.6,0.5,7
+Calidad,30,Reconocimiento,49.2,42.7,6.4,25.9,13.1,1
+Calidad,30,Desarrollo,53.3,54.8,-1.5,15.4,7.2,2
+Calidad,30,Liderazgo del jefe directo,76.7,68.1,8.6,30.0,7.0,3
+Calidad,30,Compensación y beneficios,44.2,39.7,4.4,11.1,6.2,4
+Calidad,30,Comunicación,60.0,56.6,3.4,11.4,4.6,5
+Calidad,30,Carga de trabajo,49.2,44.3,4.9,2.5,1.3,6
+Calidad,30,Seguridad y condiciones,70.0,72.1,-2.1,3.6,1.1,7
